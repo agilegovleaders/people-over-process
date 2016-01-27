@@ -8,7 +8,7 @@ By bringing applied Agile practices to government, we want to redefine the cultu
 
 ### Connect 
 
-* 
-[LinkedIn](http://www.linkedin.com/groups/Agile-Gov-6642487?home=&gid=6642487&trk=anet_ug_hm&goback=%2Egmp_6642487)
-* 
-[Twitter](http://twitter.com/agilegovleaders)
+* [Subscribe](http://agilegovleaders.org/subscribe)
+* [LinkedIn](http://www.linkedin.com/groups/Agile-Gov-6642487?home=&gid=6642487&trk=anet_ug_hm&goback=%2Egmp_6642487)
+* [Twitter](http://twitter.com/agilegovleaders)
+* [RSS](http://agilegovleaders.org/feed)
