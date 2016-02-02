@@ -7,6 +7,11 @@
 * [The TechFAR Handbook for Procuring Digital Services Using Agile Processes](https://github.com/usds/playbook/blob/gh-pages/_includes/techfar-online.md#the-techfar-handbook-for-procuring-digital-services-using-agile-processes)
 * [Vets.gov Playbook](https://www.vets.gov/playbook/product-methodology/)
 
+## Videos
+
+* [Agile Government 101](https://www.youtube.com/watch?v=cQxd96-4vqs)
+* [How to Run an Agile Project](https://www.youtube.com/watch?v=FpBjClJTVQ0)
+
 ## Books
 
 * [Agile Project Management for Government](http://www.amazon.com/Agile-Project-Management-Government-Wernham/dp/0957223404)
