@@ -2,7 +2,7 @@
 
 A framework for a more iterative, user-centered government
 
-[![](agile-government-cover-small.png)](https://agilegovleaders.gitbooks.io/agile-government-book/content/index.html)
+![Agile Government](/agile-government-cover-small.png)
 
 *By [Agile Government Leadership](http://agilegovleaders.org) (and friends)
 *
