@@ -1,5 +1,11 @@
 # Resources
 
+## Playbooks
+
+* [U.S. Digital Services Playbook](https://playbook.cio.gov)
+* [U.S. Digital Services Playbook](https://playbook.cio.gov)
+
+
 ## Books
 
 * [Agile Project Management for Government](http://www.amazon.com/Agile-Project-Management-Government-Wernham/dp/0957223404)
