@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* What They Say
+* [What They Say](what_they_say.md)
 * [About Agile](about_agile.md)
 * [Best Practices](best_practices.md)
 * [Case Studies](case_studies.md)
