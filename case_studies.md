@@ -8,7 +8,7 @@ The Department of Justice demonstrates how an agile approach can reduce the risk
 
 Salt Lake City adopts Agile to try to decrease missed deadlines.
 
-## State of Maine
+## [State of Maine](state_of_maine.md)
 
 Agile development allows the State of Maine to think big, yet start small – and make project course corrections quickly to ensure project success.
 
