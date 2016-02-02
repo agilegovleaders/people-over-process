@@ -11,7 +11,7 @@
    * [General Services Administration](general_services_administration.md)
    * [New South Wales](new_south_wales.md)
 * [Glossary](glossary.md)
+* [Resources](resources.md)
 * [About AGL](about_agl.md)
 * [Acknowledgements](acknowledgements.md)
-* [Resources](resources.md)
 
