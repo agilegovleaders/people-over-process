@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [What They Say](what_they_say.md)
 * [About Agile](about_agile.md)
+* Questions to Ask
 * [Best Practices](best_practices.md)
 * [Case Studies](case_studies.md)
    * [U.S. Department of Justice](us_department_of_justice.md)
@@ -15,5 +16,4 @@
 * [Resources](resources.md)
 * [About AGL](about_agl.md)
 * [Acknowledgements](acknowledgements.md)
-* Questions to Ask
 
