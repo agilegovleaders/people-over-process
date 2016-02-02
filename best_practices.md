@@ -1,4 +1,4 @@
-# Best practices
+# Best Practices
 
 In July 2012, the U.S. Government Accountability Office identified 10 practices for applying Agile software development methods to government IT projects.
 
