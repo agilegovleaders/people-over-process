@@ -1,8 +1,8 @@
 # Roles
 
-**Contracting Officer’s Representative (COR)**: Performs functions specifically delegated to them by the contracting officer in writing for the particular contract/order. This individual may also serve as the Product Owner. 
+**Contracting Officer’s Representative (COR)**: Performs functions specifically delegated to them by the contracting officer in writing for the particular contract/order. This individual may also serve as the product owner. 
 
-**Project Manager**: Government manager of the Agile process. Also sometimes called Scrum Master.
+**Project Manager**: Government manager of the Agile process. Also sometimes called scrum master.
 
 **Developers**: Software architects who design the system and write code.
 
