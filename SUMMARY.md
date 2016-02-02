@@ -5,7 +5,7 @@
 * [About Agile](about_agile.md)
 * [Questions to Ask](questions_to_ask.md)
 * [Roles](roles.md)
-   * Contracting Officer
+   * [Contracting Officer](contracting_officer.md)
 * [Best Practices](best_practices.md)
 * [Case Studies](case_studies.md)
    * [U.S. Department of Justice](us_department_of_justice.md)
