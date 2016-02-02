@@ -1,6 +1,6 @@
 # Case Studies
 
-## U.S. Department of Justice
+[## U.S. Department of Justice](us_department_of_justice.md)
 
 The Department of Justice demonstrates how an agile approach can reduce the risks in modernizing legacy systems managed by many stakeholders. 
 
