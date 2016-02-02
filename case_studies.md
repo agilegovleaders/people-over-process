@@ -12,11 +12,11 @@ Salt Lake City adopts Agile to try to decrease missed deadlines.
 
 Agile development allows the State of Maine to think big, yet start small – and make project course corrections quickly to ensure project success.
 
-## Broadcasting Board of Governors (Office of Digital & Design Innovation)
+## [Broadcasting Board of Governors](broadcasting_board_of_governors.md)
 
 The Office of Digital and Design Innovation at Broadcasting Board of Governors starts getting things done. Keys: training and prioritization.
 
-## General Services Administration (Integrated Award Environment)
+## [General Services Administration](general_services_administration.md)
 
 It’s really a question of how to scale: While it’s important to note that a key aspect of Agile is to break down problems into small enough chunks so they can be managed successfully, one must always keep in mind the larger picture that is critical in most government environments. That larger picture often is motivated by a mission need that drives forward an organization in its entirety.
 
