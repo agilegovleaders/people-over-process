@@ -6,5 +6,5 @@
 * Case Studies
 * [About AGL](about_agl.md)
 * [Acknowledgements](acknowledgements.md)
-* Glossary
+* [Glossary](glossary.md)
 
