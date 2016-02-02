@@ -12,4 +12,4 @@
 
 **Stand-ups:** A meeting with attendees typically standing. The discomfort of standing for long periods helps to keep the meetings short. The meetings are usually timeboxed to 5–15 minutes and are held standing up to remind people to keep the meeting short and to-the-point. There are three questions to ask and answer in the daily stand-up (“What did I accomplish yesterday?” / “What will I do today?” / “What obstacles are impeding my progress?”) *(Source: [Wikipedia](http://en.wikipedia.org/wiki/Stand-up_meeting))*
 
-**User stories:** One or more sentences in the everyday or business language of the end user or user of a system that captures what a user does or needs to do as part of his or her job function.*(Source: [Wikipedia](http://en.wikipedia.org/wiki/User_story))*
+**User stories:** One or more sentences in the everyday or business language of the end user or user of a system that captures what a user does or needs to do as part of his or her job function.*(Source: [Wikipedia](http://en.wikipedia.org/wiki/User_story))* 
