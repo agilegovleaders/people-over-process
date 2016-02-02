@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* What They Say
 * [About Agile](about_agile.md)
 * [Best Practices](best_practices.md)
 * [Case Studies](case_studies.md)
@@ -14,5 +15,4 @@
 * [Resources](resources.md)
 * [About AGL](about_agl.md)
 * [Acknowledgements](acknowledgements.md)
-* What They Say
 
