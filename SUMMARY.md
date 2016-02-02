@@ -10,7 +10,7 @@
    * [Developers](developers.md)
    * [Interface](interface.md)
    * [Legal](legal.md)
-   * Product Owner
+   * [Product Owner](product_owner.md)
    * [Project Manager](project_manager.md)
    * [Tester](tester.md)
 * [Best Practices](best_practices.md)
