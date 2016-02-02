@@ -11,6 +11,7 @@
    * [Interface](interface.md)
    * [Legal](legal.md)
    * [Project Manager](project_manager.md)
+   * Tester
 * [Best Practices](best_practices.md)
 * [Case Studies](case_studies.md)
    * [U.S. Department of Justice](us_department_of_justice.md)
