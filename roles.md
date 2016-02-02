@@ -10,6 +10,8 @@
 
 **Legal**: Provides legal review of all documents and actions.
 
+**Product Owner**: The person responsible for maintaining the product backlog by representing the interests of the stakeholders, and ensuring the value of the work the development team does. *(Source: [Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))*
+
 **Project Manager**: Government manager of the Agile process. Also sometimes called scrum master.
 
 **Tester**: Government user to test features and functionality of the system.
