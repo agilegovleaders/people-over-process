@@ -7,7 +7,7 @@
 * [Roles](roles.md)
    * [Contracting Officer](contracting_officer.md)
    * [Contracting Officer’s Representative](contracting_officers_representative.md)
-   * Developers
+   * [Developers](developers.md)
 * [Best Practices](best_practices.md)
 * [Case Studies](case_studies.md)
    * [U.S. Department of Justice](us_department_of_justice.md)
