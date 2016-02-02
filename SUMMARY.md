@@ -5,6 +5,5 @@
 * [Best practices](best_practices.md)
 * Case Studies
 * [About AGL](about_agl.md)
-* [Glossary](glossary.md)
 * [Acknowledgements](acknowledgements.md)
 
