@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [About Agile](about_agile.md)
-* [Glossary](glossary.md)
 * [About AGL](about_agl.md)
+* [Glossary](glossary.md)
 * [Acknowledgements](acknowledgements.md)
 
