@@ -5,6 +5,7 @@
 * [18F Delivery: Partnership Playbook](https://pages.18f.gov/partnership-playbook/)
 * [U.S. Digital Services Playbook](https://playbook.cio.gov)
 * [The TechFAR Handbook for Procuring Digital Services Using Agile Processes](https://github.com/usds/playbook/blob/gh-pages/_includes/techfar-online.md#the-techfar-handbook-for-procuring-digital-services-using-agile-processes)
+* [Vets.gov Playbook](https://www.vets.gov/playbook/product-methodology/)
 
 ## Books
 
