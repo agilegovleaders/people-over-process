@@ -13,5 +13,5 @@
 * [Glossary](glossary.md)
 * [About AGL](about_agl.md)
 * [Acknowledgements](acknowledgements.md)
-* Resources
+* [Resources](resources.md)
 
