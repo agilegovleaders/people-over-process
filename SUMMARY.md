@@ -5,6 +5,7 @@
 * [Best Practices](best_practices.md)
 * [Case Studies](case_studies.md)
    * [U.S. Department of Justice](us_department_of_justice.md)
+   * Salt Lake City
 * [Glossary](glossary.md)
 * [About AGL](about_agl.md)
 * [Acknowledgements](acknowledgements.md)
