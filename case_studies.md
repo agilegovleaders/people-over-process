@@ -4,7 +4,7 @@
 
 The Department of Justice demonstrates how an agile approach can reduce the risks in modernizing legacy systems managed by many stakeholders. 
 
-## Salt Lake City
+## [Salt Lake City](salt_lake_city.md)
 
 Salt Lake City adopts Agile to try to decrease missed deadlines.
 
