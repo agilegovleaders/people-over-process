@@ -4,6 +4,10 @@
 
 *-U.S. Patent and Trade Office*
 
+> We should use an incremental, fast-paced style of software development to reduce the risk of failure. We want to get working software into users’ hands as early as possible to give the design and development team opportunities to adjust based on user feedback about the service. A critical capability is being able to automatically test and deploy the service so that new features can be added often and be put into production easily.
+
+*-U.S. Digital Services Playbook*
+
 > “We are trying to get some best practices for agile contracts, so if you choose to buy a piece of technology from a vendor in an agile way, we can specify the business value we want out of it, and provide reasonable checks and balances to make sure we are building something that satisfies that business value without trying to define every little thing.”
 
 *-State of Washington*
