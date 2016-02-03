@@ -6,9 +6,9 @@ Every Style risks falling into "the trigger zone" when their "core balance conce
 * There is uncertainty about the direction we're going - *why are we doing this*?
 * The conversation or activity lacks sufficient context - *why are we talking about this*?
 * There is a lack of clarity about what we're doing - *what's the point*?
-* People are diligently working, but there doesn't appear to be a real plan inplace.
-* He/she doesn't have good answers to important questions that others are asking.
+* People are diligently working, but there doesn't appear to be a good plan inplace.
 * A breakdown happens that "could have been avoided" - they HATE surprises!
+* He/she doesn't have good answers to important questions that others are asking.
 * Others start to think that the Executive don't know what he/she is doing.
 
 
