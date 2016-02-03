@@ -25,5 +25,5 @@
 * [Resources](resources.md)
 * [About AGL](about_agl.md)
 * [Acknowledgements](acknowledgements.md)
-* test
+* [test](test.md)
 
