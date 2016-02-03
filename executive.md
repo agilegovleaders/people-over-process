@@ -14,7 +14,7 @@ Every Style risks falling into "the trigger zone" when their "core balance conce
 
 ## Triggered Behaviors
 * Dictating - barking orders, telling others what to do
-* Covering up - making up answers and delivering them with confidence
+* Covering up - making up answers and delivering them confidently
 * Arrogance - other people are stupid, they don't "get it
 * Bullying - belittling others, forcing tehm to do things against their will
 
