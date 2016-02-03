@@ -1,19 +1,19 @@
 # Roles
 
-**Contracting Officer (CO)**: Authorized to bind the Government contractually and direct contractor action.
+**[Contracting Officer](contracting_officer.md) (CO)**: Authorized to bind the Government contractually and direct contractor action.
 
-**Contracting Officer’s Representative (COR)**: Performs functions specifically delegated to them by the contracting officer in writing for the particular contract/order. This individual may also serve as the product owner. 
+**[Contracting Officer’s Representative](contracting_officers_representative.md) (COR)**: Performs functions specifically delegated to them by the contracting officer in writing for the particular contract/order. This individual may also serve as the product owner. 
 
-**Developers**: Software architects who design the system and write code.
+**[Developers](developers.md)**: Software architects who design the system and write code.
 
-**Executive**: Senior-level executive (CIO/CTO).
+**[Executive](executive.md)**: Senior-level executive (CIO/CTO).
 
-**Interface**: Ensures system can communicate with other systems or people as needed. This is not a required team member; membership depends on project needs.
+**[Interface](interface.md)**: Ensures system can communicate with other systems or people as needed. This is not a required team member; membership depends on project needs.
 
-**Legal**: Provides legal review of all documents and actions.
+**[Legal](interface.md)**: Provides legal review of all documents and actions.
 
-**Product Owner**: The person responsible for maintaining the product backlog by representing the interests of the stakeholders, and ensuring the value of the work the development team does. *(Source: [Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))*
+**[Product Owner](product_owner.md)**: The person responsible for maintaining the product backlog by representing the interests of the stakeholders, and ensuring the value of the work the development team does. *(Source: [Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))*
 
-**Project Manager**: Government manager of the Agile process. Also sometimes called scrum master.
+**[Project Manager](project_manager.md)**: Government manager of the Agile process. Also sometimes called scrum master.
 
-**Tester**: Government user to test features and functionality of the system.
+**[Tester](tester.md)**: Government user to test features and functionality of the system.
