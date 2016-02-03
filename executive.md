@@ -3,13 +3,13 @@
 ## Core Balance Concerns
 
 Every Style risks falling into "the trigger zone" when their "core balance concerns" aren't being met. The Executive becomes susceptible to losing balance when:
-* The conversation or activity lacks sufficient context.
-* There is uncertainty about the direction we're going.
-* People are diligently working, but there doesn't appear to be a plan.
-* There is a lack of clarity as to why we're doing what we're doing or there seems to be no point to what we're doing at all.
-* He/she doesn't have good answers to important questions others are asking.
-* Others think that the Executive don't know what he/she is doing.
+* There is uncertainty about the direction we're going - *why are we doing this*?
+* The conversation or activity lacks sufficient context - *why are we talking about this*?
+* There is a lack of clarity about what we're doing - *what's the point*?
+* People are diligently working, but there doesn't appear to be a real plan inplace.
+* He/she doesn't have good answers to important questions that others are asking.
 * A breakdown happens that "could have been avoided" - they HATE surprises!
+* Others start to think that the Executive don't know what he/she is doing.
 
 
 ## Triggered Behaviors
