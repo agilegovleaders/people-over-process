@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [What They Say](what_they_say.md)
 * [About Agile](about_agile.md)
+* [test](test.md)
 * [Questions to Ask](questions_to_ask.md)
 * [Roles](roles.md)
    * [Contracting Officer](contracting_officer.md)
@@ -25,5 +26,4 @@
 * [Resources](resources.md)
 * [About AGL](about_agl.md)
 * [Acknowledgements](acknowledgements.md)
-* [test](test.md)
 
