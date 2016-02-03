@@ -6,6 +6,8 @@
 
 **Developers**: Software architects who design the system and write code.
 
+**Executive**: Senior-level executive (CIO/CTO).
+
 **Interface**: Ensures system can communicate with other systems or people as needed. This is not a required team member; membership depends on project needs.
 
 **Legal**: Provides legal review of all documents and actions.
