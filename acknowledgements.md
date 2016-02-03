@@ -5,6 +5,7 @@ Special thanks to the following people and organizations (in alphabetical order)
 * 18F
 * Luke Fretwell
 * Bill Haight
+* [Loren Klein](https://thenounproject.com/lorenklein/uploads/?i=160031)
 * Cathy Novak
 * Henry Poole
 * U.S. Digital Services
