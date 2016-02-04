@@ -5,6 +5,7 @@
 * [What They Say](what_they_say.md)
 * [About Agile](about_agile.md)
 * [Questions to Ask](questions_to_ask.md)
+* [Styles](styles.md)
 * [Roles](roles.md)
    * [Contracting Officer](contracting_officer.md)
    * [Contracting Officer’s Representative](contracting_officers_representative.md)
@@ -26,5 +27,4 @@
 * [Resources](resources.md)
 * [About AGL](about_agl.md)
 * [Acknowledgements](acknowledgements.md)
-* [Styles](styles.md)
 
