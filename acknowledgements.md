@@ -15,3 +15,5 @@ Special thanks to the following (in alphabetical order) for their contributions:
 * Son Tran
 * Navin Vembar
 * Wikipedia
+
+See also our [GitHub contributions page](https://github.com/agilegovleaders/agile-government-book/graphs/contributors).
