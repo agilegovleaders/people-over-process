@@ -8,7 +8,7 @@ So, while animals only deal with a singular type of pressure, which is anything 
 
 Interestingly, while we have expanded our capacity for concerns, our brains are only capable of handling them in a single way. That is to say, while we are advanced beings living in a modern world, we are still operating on a primitive biology.
 
-Once we What happens to the human brain under pressure is quite interesting.
+What happens to the human brain under pressure is quite interesting.
 
 
 ## Distinctions
