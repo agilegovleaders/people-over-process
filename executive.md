@@ -19,6 +19,11 @@ Every Style risks falling into "the trigger zone" when their "core balance conce
 * Bullying - belittling others, forcing them to do things against their will
 
 
+## Preferences
+
+
+* Learns by thinking
+* "Team" means the people who work for me
 
 ## Alignment
 
