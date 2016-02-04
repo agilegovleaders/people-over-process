@@ -15,7 +15,7 @@ The human brain is comprised of three primary areas:
 
 * The amygdala resides inside of the wider limbic system, which is the area of our brains responsible for our basic drives for things such as hunger, sex, dominance, care for offspring, as well as the place where we experience emotions, moods, motivations and our instincts. The limbic system is also the storage area for long-term memory, which is relevant because our memories tend to be more emotionally based than factual.
 
-* Finally, at the outermost layer you will find the neocortex, which is the largest and most complex part of the human brain. The neocortex is involved with all higher functions such as sensory perception, spatial reasoning, complex thought and language, and it could be argued that it is the thing that makes us uniquely human. That is until we experience pressure.
+* Finally, at the outermost layer you will find the neocortex, which is the largest and most complex part of the human brain. The neocortex is involved with all higher functions such as sensory perception, spatial reasoning, language and complex thought, and it could be argued that it is the thing that makes us uniquely human. That is until we experience pressure.
 
 That is to say, while we are advanced beings living in a modern world, we are still operating on a primitive biology.
 
