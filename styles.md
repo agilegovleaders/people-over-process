@@ -1,5 +1,5 @@
 # Styles
-
+Human behavior is predictable.
 
 ## Neuroscience
 One of the primary things separating the human experience from the animal kingdom is that we advanced beings have developed the extraordinary capacity to experience multiple types of pressure (or risk). This is no small feat given that we all share the same biological imperative for survival and reproduction.
