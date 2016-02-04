@@ -2,7 +2,7 @@
 Human behavior is predictable...
 
 ## Neuroscience
-One of the primary things separating the human experience from the animal kingdom is that we humans have developed an extraordinary capacity to experience multiple types of pressure (or risk) in our lives. This is no small feat given that we share the same biological imperative for survival and reproduction as our animal counterparts.
+One of the primary things separating the human experience from the animal kingdom is that we humans have developed an extraordinary capacity to experience multiple types of pressure (or risk) in our lives. This is no small feat given that we share the same biological imperative for survival as our animal counterparts.
 
 While animals only deal with the singular type of pressure of anything that threatens their lives, humans have advanced to the point where survival ranks as only one of our primary concerns. And while it remains a very important one for us, we also put a lot of our attention on what other people think about us and how that impacts our ability to earn a living, advance our careers and build community.
 
