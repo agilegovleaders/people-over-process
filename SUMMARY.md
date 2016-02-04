@@ -31,4 +31,5 @@
 * [About AGL](about_agl.md)
 * [Acknowledgements](acknowledgements.md)
 * [Contribute](contribute.md)
+* License
 
