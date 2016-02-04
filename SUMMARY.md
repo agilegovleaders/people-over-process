@@ -26,5 +26,5 @@
 * [Resources](resources.md)
 * [About AGL](about_agl.md)
 * [Acknowledgements](acknowledgements.md)
-* Styles
+* [Styles](styles.md)
 
