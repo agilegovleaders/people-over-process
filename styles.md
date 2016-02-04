@@ -10,9 +10,7 @@ Interestingly, while we have expanded our capacity for things that concern us, o
 
 
 
-brains are only capable of handling them in a single way. That is to say, while we are advanced beings living in a modern world, we are still operating on a primitive biology.
-
-What happens to the human brain under pressure is quite interesting.
+That is to say, while we are advanced beings living in a modern world, we are still operating on a primitive biology.
 
 
 ## Distinctions
