@@ -12,7 +12,7 @@ A meeting held by a project team at the end of a project or process (often after
 
 ## Scrum
 
-An iterative and incremental agile software development framework for managing product development *(Source: [Wikipedia](http://en.wikipedia.org/wiki/Scrum_(software_development))*
+An iterative and incremental agile software development framework for managing product development *(Source: [Wikipedia](http://en.wikipedia.org/wiki/Scrum_(software_development) )*
 
 ## Sprint cycles
 
