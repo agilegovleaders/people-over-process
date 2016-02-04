@@ -6,7 +6,7 @@ One of the primary things separating the human experience from the animal kingdo
 
 While animals only deal with the singular type of pressure of anything that threatens their lives, humans have advanced to the point where survival ranks as only one of our primary concerns. And while it remains a very important one for us, we also put a lot of our attention on what other people think about us and how that impacts our ability to earn a living, advance our careers and build community.
 
-Interestingly, while we have expanded our capacity for things that concern us, our method for handling them remains pretty much the same. This is because our brain has a hard time distinguishing between actual risk (threat of death) and perceived risk (threat of humiliation). This is where the neuroscience provides a fascinating explanation for what is going on.
+Interestingly, while we have expanded our capacity for things that concern us, our method for handling them remains pretty much the same. This is because our brain has a really hard time distinguishing between actual risk (threat of death) and perceived risk (threat of humiliation). This is where the neuroscience provides a fascinating explanation for what is going on.
 
 The human brain is comprised of three primary areas:
 * The most primitive part is called the amygdala. It is the first part of the brain that forms in utero and it sits at the base of the brain stem. It's about the size of an almond and it acts as a human highlighter, constantly scanning your environment for potential threats. It is sometimes referred to as the "lizard brain" because it is the only brain that a reptile has and it is found in the brains of all animals.
