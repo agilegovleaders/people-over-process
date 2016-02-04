@@ -1,6 +1,10 @@
-# Executive
+# Executive (Control)
 
-## Core Balance Concerns for Control Styles
+## Preferences
+* Learns by thinking
+* "Team" means the people who work for me
+
+## Core Balance Concerns
 
 Every Style risks falling into "the trigger zone" when their "core balance concerns" aren't being met. The Executive becomes susceptible to losing balance when:
 * There is uncertainty about the direction we're going - *why are we doing this*?
@@ -12,18 +16,13 @@ Every Style risks falling into "the trigger zone" when their "core balance conce
 * Others start to think that the Executive don't know what he/she is doing.
 
 
-## Triggered Behaviors of the Control Style
+## Triggered Behaviors
+Every Style risks falling into "the trigger zone" when their "core balance concerns" aren't being met. The Executive becomes susceptible to losing balance when:
 * Dictating - barking orders, telling others what to do
 * Covering up - making up answers and delivering them confidently
 * Arrogance - other people are stupid, they don't "get it
 * Bullying - belittling others, forcing them to do things against their will
 
-
-## Preferences
-
-
-* Learns by thinking
-* "Team" means the people who work for me
 
 ## Alignment
 
