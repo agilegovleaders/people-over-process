@@ -9,7 +9,7 @@
    * [Control](control.md)
    * [Influence](influence.md)
    * [Power](power.md)
-   * Authority
+   * [Authority](authority.md)
 * [Roles](roles.md)
    * [Contracting Officer](contracting_officer.md)
    * [Contracting Officer’s Representative](contracting_officers_representative.md)
