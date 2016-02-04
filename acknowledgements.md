@@ -1,6 +1,6 @@
 # Acknowledgements
 
-Special thanks to the following people and organizations (in alphabetical order) for their contributions:
+Special thanks to the following (in alphabetical order) for their contributions:
 
 * 18F
 * Luke Fretwell
