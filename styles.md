@@ -13,7 +13,7 @@ The human brain is comprised of three primary areas:
 
 * The amygdala resides inside of the limbic system, which is where we experience emotions, moods, motivations, our basic drives for things such as hunger, sex, dominance, care for offspring, and our instincts. The limbic system is also the storage area for long-term memory.
 
-* Finally, the outer layer and the largest part of the human brain is a complex system of nerves, neurons and networks called the neocortex. This is the part of our brain that is involved with higher functions such as sensory perception, spatial reasoning, conscious thought and language.
+* Finally, the neocortex is the outer layer of the brain. It represents the largest part of the human brain and is comprised of a complex system of nerves, neurons and networks. This is the part of our brain that is involved with higher functions such as sensory perception, spatial reasoning, conscious thought and language.
 
 That is to say, while we are advanced beings living in a modern world, we are still operating on a primitive biology.
 
