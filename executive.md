@@ -6,3 +6,5 @@ Typical Styles associated with the Executive role:
 
 ## Recommended Reading
 
+### What to send an Executive before a meeting
+
