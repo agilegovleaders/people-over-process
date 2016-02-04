@@ -8,6 +8,7 @@ Special thanks to the following people and organizations (in alphabetical order)
 * [Loren Klein](https://thenounproject.com/lorenklein/uploads/?i=160031)
 * Cathy Novak
 * Henry Poole
+* Tony Cooper
 * U.S. Digital Services
 * U.S. Government Accountability Office
 * Joshua Smith
