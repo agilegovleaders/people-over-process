@@ -1,8 +1,8 @@
 # Executive (Control)
 
-## Core Balance Concerns
+## Core Trust Concerns
 
-Every Style risks falling into "the trigger zone" when their "core balance concerns" aren't being met. The Executive becomes susceptible to losing balance when:
+Every Style risks falling into "the trigger zone" when their "core trust concerns" aren't being met. The Executive becomes susceptible to losing trust when:
 * There is uncertainty about the direction we're going - *why are we doing this*?
 * The conversation or activity lacks sufficient context - *why are we talking about this*?
 * There is a lack of clarity about what we're doing - *what's the point*?
