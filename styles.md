@@ -11,7 +11,7 @@ Interestingly, while we have expanded our capacity for things that concern us, o
 This is where the neuroscience provides a fascinating explanation for what is going on.
 
 The human brain is comprised of three primary areas:
-* The most primitive part is called the amygdala. It is the first part of the brain that forms in utero and it sits at the base of the brain stem. It's about the size of an almond and it acts as a human highlighter, constantly scanning your environment for potential threats. It is sometimes referred to as the "lizard brain" because it is the only brain that a reptile has and it is found in the brains of all animals.
+* The most primitive part is called the amygdala. It's about the size of an almond, it is the first part of the brain that forms in utero and it sits at the base of the brain stem. Its primary role is to act as a human highlighter, constantly scanning your environment for potential threats. It is sometimes referred to as the "lizard brain" because it is the only brain that a reptile has and it is found in the brains of all animals.
 
 * The amygdala resides inside of the wider limbic system, which is the area of our brains responsible for our basic drives for things such as hunger, sex, dominance, care for offspring, as well as the place where we experience emotions, moods, motivations and our instincts. The limbic system is also the storage area for long-term memory, which is relevant because our memories tend to be more emotionally based than factual.
 
