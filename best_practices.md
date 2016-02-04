@@ -9,7 +9,7 @@ From the GAO report:
 ## 10 best practices
 
 1. Start with Agile guidance and an Agile adoption strategy.
-1. Enhance migration to Agile concepts using Agile terms, such as user stories (used to convey requirements), and Agile examples, such as demonstrating how to write a user story.
+1. Enhance migration to Agile concepts using [Agile terms](terms.md), such as user stories (used to convey requirements), and Agile examples, such as demonstrating how to write a user story.
 1. 
 Continuously improve Agile adoption at both the project level and organization level.
 1. 
