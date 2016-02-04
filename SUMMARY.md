@@ -27,10 +27,10 @@
    * [Broadcasting Board of Governors](broadcasting_board_of_governors.md)
    * [General Services Administration](general_services_administration.md)
    * [New South Wales](new_south_wales.md)
+* [Terms](terms.md)
 * [Resources](resources.md)
 * [About AGL](about_agl.md)
 * [Acknowledgements](acknowledgements.md)
 * [Contribute](contribute.md)
 * [License](license.md)
-* [Terms](terms.md)
 
