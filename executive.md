@@ -12,7 +12,7 @@ Every Style risks falling into "the trigger zone" when their "core balance conce
 * Others start to think that the Executive don't know what he/she is doing.
 
 
-## Triggered Behaviors
+## Triggered Behaviors of the Control Style
 * Dictating - barking orders, telling others what to do
 * Covering up - making up answers and delivering them confidently
 * Arrogance - other people are stupid, they don't "get it
