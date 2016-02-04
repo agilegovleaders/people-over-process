@@ -4,7 +4,7 @@
 A design practice used in software development to automate and improve the process of software delivery. *(Source: [Wikipedia](http://en.wikipedia.org/wiki/Continuous_delivery))*
 
 ## Kanban
-A visual process management system that tells what to produce, when to produce it, and how much to produce. *(Source: [Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development)))*
+A visual process management system that tells what to produce, when to produce it, and how much to produce. *(Source: [Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development))*
 
 ## Retrospective
 
@@ -12,11 +12,11 @@ A meeting held by a project team at the end of a project or process (often after
 
 ## Scrum
 
-An iterative and incremental agile software development framework for managing product development *(Source: [Wikipedia](http://en.wikipedia.org/wiki/Scrum_(software_development)))*
+An iterative and incremental agile software development framework for managing product development *(Source: [Wikipedia](http://en.wikipedia.org/wiki/Scrum_(software_development))*
 
 ## Sprint cycles
 
-A “timeboxed” effort; that is, it is restricted to a specific duration.[14] The duration is fixed in advance for each sprint and is normally between one week and one month, although two weeks is typical. *(Source: [Wikipedia](https://en.wikipedia.org/wiki/Sprint_(software_development)))*
+A “timeboxed” effort; that is, it is restricted to a specific duration.[14] The duration is fixed in advance for each sprint and is normally between one week and one month, although two weeks is typical. *(Source: [Wikipedia](https://en.wikipedia.org/wiki/Sprint_(software_development))*
 
 ## Stand-ups
 
