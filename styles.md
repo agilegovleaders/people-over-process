@@ -2,9 +2,9 @@
 
 
 ## Neuroscience
-One of the primary things separating humans from animals is that humans have the capacity to experience multiple types of pressure. Most animals only experience one type of pressure, which is survival. The primary biological imperatives are survival and reproduction, in other words, propagation of the species.
+One of the primary things separating humans from animals is that humans have developed the capacity to experience multiple types of pressure. Most animals experience only one type of pressure, which is anything that threatens their lives. In the animal kingdom, the primary biological imperatives are survival and reproduction. In other words, the only real concern for an animal is propagation of the species.
 
-What happens to the human brain under pressure is quite interesting.
+Humans, however, have evolved to the point where survival is not our only concern. Once we What happens to the human brain under pressure is quite interesting.
 
 
 ## Distinctions
