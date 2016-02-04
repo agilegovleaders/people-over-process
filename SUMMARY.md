@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-   * "Getting it."
+   * ["Getting it."](getting_it.md)
 * [What They Say](what_they_say.md)
 * [About Agile](about_agile.md)
 * [Questions to Ask](questions_to_ask.md)
