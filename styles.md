@@ -17,7 +17,9 @@ The human brain is comprised of three primary areas:
 
 * Finally, at the outermost layer you will find the neocortex, which is the largest and most complex part of the human brain. The neocortex is involved with all higher functions such as sensory perception, spatial reasoning, language and complex thought. It could be argued that the neocortex is the thing that makes us uniquely human, that is until the moment we experience pressure.
 
-When exposed to a high enough level of pressure, for instance presenting to room full of people or when you are working up against a tight deadline, the brain loses the ability to distinguish between actual and perceived risk and the amygdala kicks into high gear to protect you from the threat.
+When exposed to a high enough level of pressure, for instance presenting to room full of people or when you are working up against a tight deadline, the human brain loses its ability to distinguish between actual and perceived risk and the amygdala kicks into high gear to protect you from the threat.
+
+It releases a cocktail of neurochemicals into your brain as a strategy to ensure survival. Seratonin floods the neocortex to pacify it, then the limbic system gets shots of dopamine, which reduces inhibitions, and adrenaline, which is an extreme upper. In this moment, the most primitive part of your brain is being encouraged to do whatever it wants as fast as it can, which is to defend your life.
 
 
 That is to say, while we are advanced beings living in a modern world, we are still operating on a primitive biology.
