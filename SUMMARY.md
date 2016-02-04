@@ -30,5 +30,5 @@
 * [Resources](resources.md)
 * [About AGL](about_agl.md)
 * [Acknowledgements](acknowledgements.md)
-* Contribute
+* [Contribute](contribute.md)
 
