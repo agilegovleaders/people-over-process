@@ -17,3 +17,5 @@
 **[Project Manager](project_manager.md)**: Government manager of the Agile process. Also sometimes called scrum master.
 
 **[Tester](tester.md)**: Government user to test features and functionality of the system.
+
+*Source: [TechFAR: Examples of Team Members (IPT) Needed to Support Agile Software Development](https://github.com/usds/playbook/blob/gh-pages/_includes/techfar-online.md#examples-of-team-members-ipt-needed-to-support-agile-software-development)*
