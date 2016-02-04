@@ -7,6 +7,7 @@
 * [Questions to Ask](questions_to_ask.md)
 * [Styles](styles.md)
    * [Control](control.md)
+   * Influence
 * [Roles](roles.md)
    * [Contracting Officer](contracting_officer.md)
    * [Contracting Officer’s Representative](contracting_officers_representative.md)
