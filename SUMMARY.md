@@ -8,7 +8,7 @@
 * [Styles](styles.md)
    * [Control](control.md)
    * [Influence](influence.md)
-   * Power
+   * [Power](power.md)
 * [Roles](roles.md)
    * [Contracting Officer](contracting_officer.md)
    * [Contracting Officer’s Representative](contracting_officers_representative.md)
