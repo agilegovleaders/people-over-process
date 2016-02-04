@@ -9,8 +9,10 @@ So, while animals only deal with a singular type of pressure, which is anything 
 Interestingly, while we have expanded our capacity for things that concern us, our method for handling them remains pretty much the same. This is where the neuroscience provides a fascinating explanation for what is going on.
 
 The human brain is comprised of three primary areas:
-* The most primitive part is called the amygdala. It is the first part of the brain that forms in utero and it sits right at the base of the brain stem. It's about the size of an almond and it acts as a human highlighter, constantly scanning your environment for potential threats. It is sometimes referred to as the "lizard brain" because it is the only brain a reptile has and it is found in all animals.
-* The amygdala sits inside of the limbic system, which is where we experience emotions, moods, motivations, our instinct and our basic drives for things such as hunger, sex, dominance, care for offspring. It also the storage area for long-term memory.
+* The most primitive part is called the amygdala. It is the first part of the brain that forms in utero and it sits at the base of the brain stem. It's about the size of an almond and it acts as a human highlighter, constantly scanning your environment for potential threats. It is sometimes referred to as the "lizard brain" because it is the only brain that a reptile has and it is found in the brains of all animals.
+
+* The amygdala resides inside of the limbic system, which is where we experience emotions, moods, motivations, our basic drives for things such as hunger, sex, dominance, care for offspring, and our instinct. It also the storage area for long-term memory.
+
 * Finally, the outer layer and the largest part of the brain is a complex system of nerves, neurons and networks called the neocortex. This is the part of our brain that is involved with higher functions such as sensory perception, spatial reasoning, conscious thought and language.
 
 That is to say, while we are advanced beings living in a modern world, we are still operating on a primitive biology.
