@@ -1,6 +1,6 @@
-# Executive (Control)
+# Executive
 
-## Core Balance Concerns
+## Core Balance Concerns for Control Styles
 
 Every Style risks falling into "the trigger zone" when their "core balance concerns" aren't being met. The Executive becomes susceptible to losing balance when:
 * There is uncertainty about the direction we're going - *why are we doing this*?
