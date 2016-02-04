@@ -1,4 +1,4 @@
-# Executive (Control)
+# Executive (Typically a Control Style)
 
 ## Preferences
 * Learns by thinking
