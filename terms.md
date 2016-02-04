@@ -16,7 +16,7 @@ An iterative and incremental agile software development framework for managing p
 
 ## Sprint cycles
 
-A “timeboxed” effort; that is, it is restricted to a specific duration.[14] The duration is fixed in advance for each sprint and is normally between one week and one month, although two weeks is typical. *(Source: [Wikipedia](http://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint))*
+A “timeboxed” effort; that is, it is restricted to a specific duration.[14] The duration is fixed in advance for each sprint and is normally between one week and one month, although two weeks is typical. *(Source: [Wikipedia](https://en.wikipedia.org/wiki/Sprint_(software_development)))*
 
 ## Stand-ups
 
@@ -24,4 +24,4 @@ A meeting with attendees typically standing. The discomfort of standing for long
 
 ## User stories
 
-One or more sentences in the everyday or business language of the end user or user of a system that captures what a user does or needs to do as part of his or her job function.*(Source: [Wikipedia](http://en.wikipedia.org/wiki/User_story))* 
+One or more sentences in the everyday or business language of the end user or user of a system that captures what a user does or needs to do as part of his or her job function. *(Source: [Wikipedia](http://en.wikipedia.org/wiki/User_story))* 
