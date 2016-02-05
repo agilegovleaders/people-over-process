@@ -4,7 +4,7 @@
 ## Wiring
 Neuroscience shows us that a large part of human behavior is actually hard-wired into our brains through set patterns of neuron flow that scientists refer to as neuropathways. Think of these pathways as railroad tracks that your thoughts dutifully follow, creating the same, predictable patterns of behavior over and over again.
 
-One thing that we are all hard-wired for is survival. When our lives are threatened, our biology kicks into high gear steering us toward a fight or flight response designed to save our lives. We do this completely without conscious thought. Often times when people survive a near-death experience they struggle to recall what even happened. One of the reasons for this is that the part of the brain that takes over in such moments generally lacks language.
+One thing that we are all hard-wired for is survival. When our lives are threatened, our biology kicks into high gear steering us toward a fight or flight response designed to save our lives, which we do completely without conscious thought. Often times when people survive a near-death experience they struggle to recall what even happened. One of the reasons for this is that the part of the brain that takes over in such moments generally lacks language.
 
 Interestingly, this hard-wired pattern of behavior is more easily triggered than you might think and your survival strategy is often employed in situations when there is no actual threat to your life. And this is happening to the people around you at all times.
 
