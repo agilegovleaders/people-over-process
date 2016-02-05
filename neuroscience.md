@@ -8,7 +8,7 @@ One thing that we are all hard-wired for is survival and these pre-programmed pa
 
 Interestingly, this hard-wired pattern of behavior is more easily triggered than you might think and your survival strategy is employed in lots of situations when there is no actual threat to your life.
 
-And this is happening to the people around you at all times.
+This isn't just happening to you, it's also going on in the people around you all the time.
 
 ## Beyond Survival
 One of the primary things separating the human experience from the animal kingdom is that we humans have developed an extraordinary capacity to experience multiple types of pressure (or risk) in our lives, which is to say we carry many different concerns. This is no small feat given that we share the same biological imperative for survival as our animal counterparts.
