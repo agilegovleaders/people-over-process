@@ -34,5 +34,5 @@
 * [Acknowledgements](acknowledgements.md)
 * [Contribute](contribute.md)
 * [License](license.md)
-* Security
+* [Security](security.md)
 
