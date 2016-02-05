@@ -35,7 +35,7 @@ Here's how it works. Our brains are comprised of three primary areas:
 
 When exposed to a high enough level of pressure, for instance when you find yourself with 2 more hours of work to do on a project that is due in 30 minutes or when you are being asked by the press to comment on an emerging scandal in your office, the human brain loses its ability to distinguish between actual and perceived risk causing the amygdala to kick into high gear to protect you from the threat.
 
-![](https://www.flickr.com/photos/nihgov/24024310606)
+![](24024310606_215e426a02_z.jpg)
 
 Within milliseconds, a potent cocktail of neurochemicals floods your brain in an attempt to ensure your survival. Serotonin gets shot into the neocortex in order to pacify it, then the limbic system receives doses of dopamine, which reduces inhibitions, and adrenaline, which is like caffeine on caffeine. The most primitive part of your brain is being encouraged to do whatever it wants as fast as it can, which is to defend your life. Your heart starts racing, you break out in a sweat, your breath shallows, and in that moment, you quite literally lose your mind.
 
