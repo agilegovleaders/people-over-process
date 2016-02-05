@@ -1,5 +1,5 @@
 # Neuroscience
-Neuroscience shows that a large part of human behavior is actually hard-wired into our brains through set patterns of neuron flow through our brains that scientists refer to as neuropathways. Think of these pathways as railroad tracks that your thoughts follow, creating the same, predictable behavior over and over again.
+Neuroscience shows that a large part of human behavior is actually hard-wired into our brains through set patterns of neuron flow that scientists refer to as neuropathways. Think of these pathways as railroad tracks that your thoughts follow, creating the same, predictable behavior over and over again.
 
 Do something for enough time and it is likely to become a habit, that is to say you do a lot and don't even know you're doing it. Things like driving to work, brushing your teeth and eating can easily fall into this category. Your brains build these neuropathways to allow you to focus on more important things in your life.
 
