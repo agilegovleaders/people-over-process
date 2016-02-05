@@ -31,4 +31,4 @@ When exposed to a high enough level of pressure, for instance when you find your
 
 A cocktail of neurochemicals shoots into your brain as a strategy to ensure your survival. Seratonin floods the neocortex in order to pacify it, then the limbic system gets shots of dopamine, which reduces inhibitions, and adrenaline, which is like caffeine on caffeine. In this moment, the most primitive part of your brain is being encouraged to do whatever it wants as fast as it can, which is to defend your life, and you quite literally lose your mind.
 
-So, while we are advanced beings living in a modern world, it turns out we are still operating on a primitive biology. And under pressure, that biology runs its hard-wired survival strategy every time it determines a threat
+So, while we are advanced beings living in a modern world, it turns out we are still operating on a primitive biology. And under pressure, that biology predictably runs its hard-wired survival strategy every time it determines a threat, most of the time however your life isn't at stake.
