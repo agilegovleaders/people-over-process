@@ -5,6 +5,7 @@
 * [About Agile](about_agile.md)
 * [Questions to Ask](questions_to_ask.md)
 * [Best Practices](best_practices.md)
+* [Neuroscience](neuroscience.md)
 * [Styles](styles.md)
    * [Control](control.md)
    * [Influence](influence.md)
@@ -33,5 +34,4 @@
 * [Acknowledgements](acknowledgements.md)
 * [Contribute](contribute.md)
 * [License](license.md)
-* [Neuroscience](neuroscience.md)
 
