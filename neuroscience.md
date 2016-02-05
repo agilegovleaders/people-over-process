@@ -35,6 +35,6 @@ When exposed to a high enough level of pressure, for instance when you find your
 
 Within milliseconds, a potent cocktail of neurochemicals floods your brain in an attempt to ensure your survival. Serotonin gets shot into the neocortex in order to pacify it, then the limbic system receives doses of dopamine, which reduces inhibitions, and adrenaline, which is like caffeine on caffeine. The most primitive part of your brain is being encouraged to do whatever it wants as fast as it can, which is to defend your life. Your heart starts racing, you break out in a sweat, your breath shallows, and in that moment, you quite literally lose your mind.
 
-So, while we humans are advanced beings living in a modern world, it turns out we are still operating on a fairly primitive biology. And under pressure, that biology predictably runs your hard-wired survival strategy every time it determines a threat.
+So, while we humans are advanced beings living in a modern world, it turns out we are still operating on a fairly primitive biology. And under pressure, that biology predictably runs your hard-wired survival strategy every time it detects a threat.
 
 However, if you pay attention, you will find that most of the time it does this, your life isn't actually at stake. And if you can begin to see this pattern in others, you can dramatically improve your ability to interact and work with them.
