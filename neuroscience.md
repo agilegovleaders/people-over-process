@@ -37,4 +37,4 @@ Within milliseconds, a potent cocktail of neurochemicals floods your brain as a 
 
 So, while we humans are advanced beings living in a modern world, it turns out we are still operating on a fairly primitive biology. And under pressure, that biology predictably runs your hard-wired survival strategy every time it determines a threat.
 
-However, if you pay attention, you will find that most of the time it does this, your life isn't actually at stake. And if you can begin to see this pattern in others, you can dramatically improve how you interact and work with them.
+However, if you pay attention, you will find that most of the time it does this, your life isn't actually at stake. And if you can begin to see this pattern in others, you can dramatically improve your ability to interact and work with them.
