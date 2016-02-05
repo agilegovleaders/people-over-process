@@ -13,7 +13,7 @@ And, this isn't just happening to you, it's also going on in the people around y
 ## Beyond Survival
 One of the primary things separating the human experience from the animal kingdom is that we humans have developed an extraordinary capacity to experience multiple types of pressure (or risk) in our lives, which is to say we carry many different levels of concern.
 
-Animals only deal with pressure associated with threats to their lives, so this is no small feat given that we share the same biological imperative for survival as our animal counterparts.
+Animals really only deal with pressure associated with threats to their lives, so our evolution is no small feat given that we share the same biological imperative for survival as our animal counterparts.
 
 Humans have advanced to the point where survival ranks as only one of our primary concerns. And while it remains a very important one, we also put a lot of our attention on what other people think about us and how that impacts our ability to earn a living, advance our careers and build a healthy community.
 
