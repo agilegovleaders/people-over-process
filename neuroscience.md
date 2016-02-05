@@ -1,5 +1,9 @@
 # Neuroscience
-Neuroscience shows that a large part of human behavior is hard-wired into our brains and is completely predictable. That is to say that each of us have set patterns of neuron flow through our brains that scientists refer to as neuropathways. Think of these pathways as railroad tracks that your thoughts follow, driving the same behavior over and over again. One thing that we are hard-wired for is our survival. When our lives are threatened, our biology kicks into gear selecting a fight or flight response designed to save our lives.
+Neuroscience shows that a large part of human behavior is actually hard-wired into our brains through set patterns of neuron flow through our brains that scientists refer to as neuropathways. Think of these pathways as railroad tracks that your thoughts follow, creating the same, predictable behavior over and over again.
+
+Do something for enough time and it is likely to become a habit, that is to say you do a lot and don't even know you're doing it. Things like driving to work, brushing your teeth and eating can easily fall into this category. Your brains build these neuropathways to allow you to focus on more important things in your life.
+
+One thing that we are hard-wired for is our survival. When our lives are threatened, our biology kicks into gear selecting a fight or flight response designed to save our lives.
 
 ## Beyond Survival
 One of the primary things separating the human experience from the animal kingdom is that we humans have developed an extraordinary capacity to experience multiple types of pressure (or risk) in our lives. This is no small feat given that we share the same biological imperative for survival as our animal counterparts.
