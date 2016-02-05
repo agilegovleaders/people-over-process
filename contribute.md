@@ -4,6 +4,8 @@
 
 By contributing works to this project, you are agreeing to license your contributions under this license.
 
+Government employees can also contribute to this work by using a public domain dedication.
+
 How to contribute:
 
 * [Add feedback in our GitHub issues queue](https://github.com/agilegovleaders/agile-government-book/issues)
