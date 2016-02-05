@@ -6,7 +6,7 @@ Neuroscience shows us that a large part of human behavior is actually hard-wired
 
 One thing that we are all hard-wired for is survival. When our lives are threatened, our biology kicks into high gear steering us toward a fight or flight response designed to save our lives, which we do completely without conscious thought. Often times when people survive a near-death experience they struggle to recall what even happened.
 
-Interestingly, this hard-wired pattern of behavior is more easily triggered than you might think and your survival strategy is often employed in situations when there is no actual threat to your life. And this is happening to the people around you at all times.
+Interestingly, this hard-wired pattern of behavior is more easily triggered than you might think and your survival strategy is employed in lots of situations when you face no actual threat to your life. And this is happening to the people around you at all times.
 
 ## Beyond Survival
 But our neuropathways go beyond survival. Do something for long enough and it is likely to become a habit, that is to say you do it a lot and you're not even aware you're doing it. You become completely unconscious to these patterns, like driving to work, brushing your teeth, even fighting with your spouse. Your brain builds neuropathways for these patterns in order to free up processing space allowing you to focus on more important things in your life.
