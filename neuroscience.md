@@ -43,3 +43,4 @@ However, if you pay attention, you will find that most of the time this happens,
 
 ## Mirror Neurons
 
+Neuroscience research also proven that these concerns are transmitted to others around us. 
