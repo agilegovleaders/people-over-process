@@ -9,8 +9,6 @@ One thing that we are all hard-wired for is survival. When our lives are threate
 Interestingly, this hard-wired pattern of behavior is more easily triggered than you might think and your survival strategy is employed in lots of situations when you face no actual threat to your life. And this is happening to the people around you at all times.
 
 ## Beyond Survival
-But our neuropathways go beyond survival. Do something for long enough and it is likely to become a habit, that is to say you do it a lot and you're not even aware you're doing it. You become completely unconscious to these patterns, like driving to work, brushing your teeth, even fighting with your spouse. Your brain builds neuropathways for these patterns in order to free up processing space allowing you to focus on more important things in your life.
-
 One of the primary things separating the human experience from the animal kingdom is that we humans have developed an extraordinary capacity to experience multiple types of pressure (or risk) in our lives, which is to say we carry many different concerns. This is no small feat given that we share the same biological imperative for survival as our animal counterparts.
 
 While animals only deal with pressure associated with threats to their lives, humans have advanced to the point where survival ranks as only one of our primary concerns. And while it remains a very important one, we also put a lot of our attention on what other people think about us and how that impacts our ability to earn a living, advance our careers and build a healthy community.
