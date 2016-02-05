@@ -1,6 +1,6 @@
 # Contribute
 
-*Agile Government* is an open knowledge project licensed under XYZ, and we encourage contributions from the general community.
+*[Agile Government](README.md)* is an open knowledge project licensed under XYZ, and we encourage contributions from the general community.
 
 How to contribute:
 
