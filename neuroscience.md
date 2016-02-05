@@ -22,7 +22,7 @@ This is where the neuroscience provides a fascinating explanation for what is go
 
 ## Losing Your Mind
 
-The human brain is the most powerful processor on the planet, responsible for incredible advances in art, culture, technology. Yet, at times it can become completely useless to us. 
+The human brain is the most powerful processor on the planet, responsible for incredible advances in art, culture, technology. Yet, at times it can cause us to act like animals. 
 
 Here's how it works. Our brains are comprised of three primary areas:
 * The most primitive part of the brain is called the amygdala. It is the first part of the brain that forms in utero, it's about the size of an almond and it sits at the base of the brain stem. Its primary role is to act as a human highlighter, constantly scanning your environment for potential threats. It is sometimes referred to as the "lizard brain" because it is the only brain that a reptile has (also found in the brains of all animals).
