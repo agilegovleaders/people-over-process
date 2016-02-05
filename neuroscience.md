@@ -15,7 +15,7 @@ One of the primary things separating the human experience from the animal kingdo
 
 While animals only deal with pressure associated with threats to their lives, humans have advanced to the point where survival ranks as only one of our primary concerns. And while it remains a very important one, we also put a lot of our attention on what other people think about us and how that impacts our ability to earn a living, advance our careers and build a healthy community.
 
-Interestingly, while we have expanded our capacity for the things that concern us, our method for handling them remains pretty much the same. This is because our brain has a really hard time distinguishing between actual risk (threat of death) and perceived risk (threat of humiliation) and it is hard-wired to respond in a particular way.
+And while we have expanded our capacity for the things that concern us, our method for handling them remains pretty much the same. This is because our brain has a really hard time distinguishing between actual risk (threat of death) and perceived risk (threat of humiliation) and it is hard-wired to respond in a particular way.
 
 This is where the neuroscience provides a fascinating explanation for what is going on.
 
