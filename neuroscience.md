@@ -2,7 +2,7 @@
 
 
 ## Wiring
-Neuroscience shows that a large part of human behavior is actually hard-wired into our brains through set patterns of neuron flow that scientists refer to as neuropathways. Think of these pathways as railroad tracks that your thoughts dutifully follow, creating the same, predictable behavior over and over again.
+Neuroscience shows that a large part of human behavior is actually hard-wired into our brains through set patterns of neuron flow that scientists refer to as neuropathways. Think of these pathways as railroad tracks that your thoughts dutifully follow, creating the same, predictable patterns of behavior over and over again.
 
 One thing that we are all hard-wired for is survival. When our lives are threatened, our biology kicks into gear steering us toward a fight or flight response designed to save our lives. We do this completely without conscious thought. Often times when people survive a near-death experience they struggle to recall what happened.
 
