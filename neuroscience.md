@@ -11,7 +11,7 @@ Interestingly, this hard-wired pattern of behavior is more easily triggered than
 And, this isn't just happening to you, it's also going on in the people around you all the time.
 
 ## Beyond Survival
-One of the primary things separating the human experience from the animal kingdom is that we humans have developed an extraordinary capacity to experience multiple types of pressure (or risk) in our lives, which is to say we carry many different levels of concern.
+One of the primary things separating the human experience from the animal kingdom is that we humans have developed an extraordinary capacity to experience multiple types of pressure (or risk) in our lives, which is to say we carry many different levels of concern beyond survival.
 
 Animals really only deal with pressure associated with threats to their lives, so our evolution is no small feat given that we share the same biological imperative for survival as our animal counterparts.
 
