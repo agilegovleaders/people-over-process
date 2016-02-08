@@ -37,7 +37,7 @@ When exposed to a high enough level of pressure, for instance when you find your
 
 ![](24024310606_215e426a02_z.jpg)
 
-Within milliseconds, a potent cocktail of neurochemicals floods your brain in an attempt to ensure your survival. Serotonin gets shot into the neocortex in order to pacify it, then the limbic system receives doses of dopamine, which reduces inhibitions, and adrenaline, which is like caffeine on caffeine.
+Within milliseconds, a potent cocktail of neurochemicals floods your brain in an attempt to ensure your survival. Serotonin is shot into the neocortex in order to pacify it, then the limbic system receives doses of dopamine, which reduces inhibitions, and adrenaline, which is like caffeine on caffeine.
 
 In this moment, the most primitive part of your brain is essentially being encouraged to do whatever it wants as fast as it can, which is to defend your life. Your heart starts racing, you break out in a sweat, your breath shallows, and you quite literally lose your mind.
 
