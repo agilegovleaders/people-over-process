@@ -47,4 +47,4 @@ However, if you pay attention, you will find that most of the time this happens,
 
 Neuroscience research also shows that the underlying emotions are transmitted to others around us through mirror neurons. 
 
-So, when one person become threatened, others around that person pick up on the emotional state of threat. This can trigger the survival state in the other people.
+So, when one person become threatened, others around that person pick up on the emotional state of threat. In other words, triggered people trigger other people as a community-based survival strategy to address the supposed threat.
