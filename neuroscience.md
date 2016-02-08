@@ -52,5 +52,5 @@ So, when one person feels threatened, others around that person pick up on the e
 ## Overcoming Biology
 Your biology doens't need you to know any of this and it is completely happy that you don't. It's only job is ensuring your survival and its evidence that your survival strategy is effective is that you are still alive right now. So, it has no interest in changing this hard-wired behavior.
 
-However, you are more than just your biology, you are also your intentions in life. And when you begin to pay attention, you will find that most of the time this happens, your life isn't actually at stake. And if you can begin to see this pattern in others, you can use that information to dramatically improve your ability to interact and work with them.
+However, you are more than just your biology, you are also your intentions in life. And when you begin to pay attention, you will find that most of the time that your biology runs your survival programming, your life isn't actually at stake. And if you can begin to see this pattern in others, you can use that information to dramatically improve your ability to interact and work with them.
 
