@@ -43,10 +43,11 @@ In this moment, the most primitive part of your brain is essentially being encou
 
 So, while we humans are advanced beings living in a modern world, it turns out we are still operating on a fairly primitive biology. And under pressure, that biology predictably runs your hard-wired survival strategy every time it detects a threat.
 
-However, if you pay attention, you will find that most of the time this happens, your life isn't actually at stake. And if you can begin to see this pattern in others, you can use that information to dramatically improve your ability to interact and work with them.
-
 ## Mirror Neurons
 
-Neuroscience research also shows that the underlying emotions are transmitted to others around us through mirror neurons. 
+And, this survival response isn't simply contained inside of a person's own experience. Neuroscience research also shows that the underlying emotions are transmitted to others around us through mirror neurons. 
 
 So, when one person become threatened, others around that person pick up on the emotional state of threat. In other words, triggered people trigger other people as a community-based survival strategy to address the supposed threat.
+
+However, if you pay attention, you will find that most of the time this happens, your life isn't actually at stake. And if you can begin to see this pattern in others, you can use that information to dramatically improve your ability to interact and work with them.
+
