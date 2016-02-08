@@ -45,7 +45,7 @@ So, while we humans are advanced beings living in a modern world, it turns out w
 
 ## Mirror Neurons
 
-And, this survival response isn't simply contained inside of a person's own experience. Neuroscience research also shows that the underlying emotions are transmitted to others around us through mirror neurons. 
+And, this survival response isn't simply contained inside of a person's own experience. Neuroscience research shows that the underlying emotions are transmitted to others around us through mirror neurons. 
 
 So, when one person become threatened, others around that person pick up on the emotional state of threat. In other words, triggered people trigger other people as a community-based survival strategy to address the supposed threat.
 
