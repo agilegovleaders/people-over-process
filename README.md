@@ -23,3 +23,17 @@ While Agile development has an advantage over Waterfall, it fails when organizat
 
 This research indicates that employee attitudes and management behavior appears to be the cause. As Jason Little wrote in his book "Lean Change Management" - it's the "unpredictable nature of those pesky humans."
 
+This book, like many agile development projects, is an ongoing project. Our intention is to co-create an evolving book with a community of evangelists. We invite your participation on gitbook.
+
+The current primary organizational structure of this book is by job titles. The following is our roadmap along with status:
+
+1. ScrumMaster
+2. Product Owner
+3. Chief Executive Officer
+4. Contracting Officer
+5. Security Officer
+6. 
+
+
+
+
