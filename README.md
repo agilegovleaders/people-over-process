@@ -15,6 +15,10 @@ Quick to jump to a fix, people asked for tools and processes. We almost followed
 
 During that first sprint to write this book, we reviewed the **first** value listed in the Agile Manifesto: **Individuals and Interactions over process and tools**. We immediately saw that value in a different light.
 
+
+### Changing Culture
+
+
 It became even more clear that changing culture was critical to the adoption of agile in government. Of course there are very real policy and legal barriers to overcome as well. Fortunately, there are many incredible people inside government who are creating avenues to adopt agile. This includes work like the TechFar, which shows the path to procuring agile in government.
 
 While this book will include many of these tools and processes that have been documented by 18f, US Digital Service, and other initiatives, we have paid very close attention to individuals and interactions and how to implement these practices with empathetic human interactions.
@@ -22,6 +26,10 @@ While this book will include many of these tools and processes that have been do
 While Agile development has an advantage over Waterfall, it fails when organizations can't adapt to change. According to Standish Group study, only 34% of change projects are successful. Further studies by Kotter, McKinsey, Prosci and others indicate that people related problems are responsible for 60% of the failures. 
 
 This research indicates that employee attitudes and management behavior appears to be the cause. As Jason Little wrote in his book "Lean Change Management" - it's the "unpredictable nature of those pesky humans."
+
+
+### Continuous Integration
+
 
 This book, like many agile development projects, is an ongoing project. Our intention is to co-create an evolving book with a community of evangelists. We invite your participation on gitbook.
 
@@ -35,7 +43,17 @@ The current primary organizational structure of this book is by job titles (or r
 6. Legal Officer (Backlog)
 
 
+### Getting It!
 
+Helping others "get it" begins with us.
+
+During the second sprint on this book, we dug into current research on neuroscience and human change. We found keys to understanding and influencing human behavior.
+
+In the book 'Neuroscience for Leadership', Tara Swart writes about how the brain stitches together reality from the bits we perceive and process. We try to put together an entire story with parts and end up with a multiplicity of interpretations.
+
+Our brains are highly selective in what we pay attention to. The assigning of meaning happens subconsciously and we are often not aware of meaning because of a lack of context. For example xxxx (tony add something here).
+
+The intention of this work is to pay attention to and document successful human interactions around agile in government. We intend to build a body of work that can help everyone better understand how others see things such that we can improve our ability to provide useful **and delightful** digital services to government workers and the public.
 
 
 
