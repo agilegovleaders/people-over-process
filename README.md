@@ -21,11 +21,11 @@ During that first sprint to write this book, we reviewed the **first** value lis
 
 It became even more clear that changing culture was critical to the adoption of agile in government. Of course there are very real policy and legal barriers to overcome as well. Fortunately, there are many incredible people inside government who are creating avenues to adopt agile. This includes work like the TechFar, which shows the path to procuring agile in government.
 
-While this book will include many of these tools and processes that have been documented by 18f, US Digital Service, and other initiatives, we have paid very close attention to individuals and interactions and how to implement these practices with empathetic human interactions.
+While this book will include many of these tools and processes that have been documented by 18f, US Digital Service, and other initiatives, we will pay close attention to individuals and interactions and how to implement these practices with empathetic human interactions.
 
 While Agile development has an advantage over Waterfall, it fails when organizations can't adapt to change. According to Standish Group study, only 34% of change projects are successful. Further studies by Kotter, McKinsey, Prosci and others indicate that people related problems are responsible for 60% of the failures. 
 
-This research indicates that employee attitudes and management behavior appears to be the cause. As Jason Little wrote in his book "Lean Change Management" - it's the "unpredictable nature of those pesky humans."
+This research indicates that employee attitudes and management behavior appears to be the cause. As Jason Little wrote in his book "Lean Change Management" - it's the "unpredictable nature of those pesky humans." We are looking to make this more predictable.
 
 
 ### Continuous Integration
@@ -55,6 +55,7 @@ Our brains are highly selective in what we pay attention to. The assigning of me
 
 The intention of this work is to pay attention to and document successful human interactions around agile in government. We intend to build a body of work that can help everyone better understand how others see things such that we can improve our ability to provide useful **and delightful** digital services to government workers and the public.
 
+It is our intention that the book will provide value to each of us, the reader and contributor without focusing on making others 'get it'. We hope to empower each of us to change interactions by and among others by transforming ourselves.
 
 
 
