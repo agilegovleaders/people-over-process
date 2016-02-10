@@ -25,14 +25,17 @@ This research indicates that employee attitudes and management behavior appears 
 
 This book, like many agile development projects, is an ongoing project. Our intention is to co-create an evolving book with a community of evangelists. We invite your participation on gitbook.
 
-The current primary organizational structure of this book is by job titles. The following is our roadmap along with status:
+The current primary organizational structure of this book is by job titles (or roles). The following is our roadmap along with status:
 
-1. ScrumMaster
-2. Product Owner
-3. Chief Executive Officer
-4. Contracting Officer
-5. Security Officer
-6. 
+1. ScrumMaster (In Process)
+2. Product Owner (Backlog)
+3. Chief Executive Officer (Backlog)
+4. Contracting Officer (Backlog)
+5. Security Officer (Backlog)
+6. Legal Officer (Backlog)
+
+
+
 
 
 
