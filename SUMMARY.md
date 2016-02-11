@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [What They Say](what_they_say.md)
 * [About Agile](about_agile.md)
-* [Neuroscience](neuroscience.md)
+* [Human Behavior](human-behavior.md)
 * [Styles](styles.md)
    * [Control](control.md)
    * [Influence](influence.md)
