@@ -1,6 +1,6 @@
 # Contribute
 
-*[Agile Government](README.md)* is an open knowledge project licensed under Creative Commons Attribution Share Alike 4.0 International license, and we encourage contributions from the general community. 
+*[People Over Process](README.md)* is an open knowledge project licensed under Creative Commons Attribution Share Alike 4.0 International license, and we encourage contributions from the general community. 
 
 By contributing works to this project, you are agreeing to license your contributions under this license.
 
