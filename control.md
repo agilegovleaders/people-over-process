@@ -27,3 +27,6 @@ Every Style risks falling into "the trigger zone" when their "core balance conce
 ## Alignment
 
 * 
+
+
+This page Copyright 2016 Prosperity Rules, LLC. All Rights Reserved.
