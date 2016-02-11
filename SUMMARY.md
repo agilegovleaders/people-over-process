@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [What They Say](what_they_say.md)
 * [About Agile](about_agile.md)
+* [Human Behavior](human_behavior.md)
 * [Questions to Ask](questions_to_ask.md)
 * [Best Practices](best_practices.md)
 * [Neuroscience](neuroscience.md)
@@ -35,5 +36,4 @@
 * [Acknowledgements](acknowledgements.md)
 * [Contribute](contribute.md)
 * [License](license.md)
-* [Human Behavior](human_behavior.md)
 
