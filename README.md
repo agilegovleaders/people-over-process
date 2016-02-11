@@ -2,7 +2,7 @@
 
 A Playbook for Agile Evangelists in Government
 
-![Agile Government](/agile-government-cover-small.png)
+![People Over Process](people-over-process-cover-small.png)
 
 *By [Agile Government Leadership](http://agilegovleaders.org) (and friends)
 *
