@@ -54,5 +54,7 @@ Your biology doens't need you to know any of this and it is completely happy tha
 
 However, you are more than just your biology, you are also your intentions in life. And when you begin to pay attention, you will find that most of the time that your biology runs your survival programming, your life isn't actually at stake. And once you can begin to see this pattern in yourself, you can begin to also notice it in others. And when that happens, you can use that information to dramatically improve your ability to interact and work with them.
 
-Neuroscience shows that while the primative survival strategies are hard-wired as neural pathways, new pathways can be developed. By paying attention on a regular schedule, new 'train tracks' can become hard wired. This happens slowly and requires repitition. When our neural pathways and associations change, our brain chemistry also changes. 
+Neuroscience shows that while the primative survival strategies are hard-wired as neural pathways, new pathways can be developed. By paying attention on a regular schedule, new 'train tracks' can become hard wired. This happens slowly and requires repitition. When our neural pathways and associations change, our brain chemistry also changes.
+
+This page Copyright 2016 Prosperity Rules, LLC. All Rights Reserved.
 
