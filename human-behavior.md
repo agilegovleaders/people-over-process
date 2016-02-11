@@ -56,5 +56,3 @@ However, you are more than just your biology, you are also your intentions in li
 
 Neuroscience shows that while the primative survival strategies are hard-wired as neural pathways, new pathways can be developed. By paying attention on a regular schedule, new 'train tracks' can become hard wired. This happens slowly and requires repitition. When our neural pathways and associations change, our brain chemistry also changes.
 
-This page Copyright 2016 Prosperity Rules, LLC. All Rights Reserved.
-
