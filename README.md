@@ -9,7 +9,11 @@ A Playbook for Agile Evangelists in Government
 
 ## Introduction
 
-During the first half-dozen interviews with agile evangelists in government, we heard a common theme: ***"He just doesnt get it." "We need to wait till he retires." "It is impossible to change this place.***"
+During the first half-dozen interviews with agile evangelists in government, we heard a common theme:
+
+*"He just doesnt get it." 
+* "We need to wait till he retires." 
+* "It is impossible to change this place."
 
 Quick to jump to a fix, people asked for tools and processes. We almost followed that urgent request, but then we stepped back and decided to follow the thread of people.
 
