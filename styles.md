@@ -1,6 +1,8 @@
 # Styles
 As the field of neuroscience illustrates, a person's behavior is predictable whenever his primitive brain confuses the pressure he is experiencing in the moment with a threat to his life. When a person gets triggered in this way, his biology automatically runs a hard-wired survival strategy in a misguided attempt to save his life.
 
+
+## Survival Strategies
 It turns out that not all survival strategies are built the same. In nature we consistently find the following four primary strategies designed to save animals' lives, whether the threat is another animal or the environment:
 * **Dictate** - Tackling a threat head-on, through attack or some form of manipulation. Some examples of animals that use this strategy are sharks, rhinoceros, lions and beavers.
 * **Migrate** - Fleeing from a threat, through outrunning, outmaneuvering or out-traveling. Some examples of animals that use this strategy are whales, antelope, birds and butterflies.
