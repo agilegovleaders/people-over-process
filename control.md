@@ -1,8 +1,12 @@
 # Control
+People with a Control Style are strong-willed, independent-thinkers who are focused on the big picture. They seek certainty, are future-oriented and pretty sure their ideas are right. Controls don’t often have a lot of time for chit chat but they do love telling other people what to do.
+
+When Controls do or say something, they are not just offering a suggestion, they are actually demonstrating how they want things to be done. In other words, they are illustrating the "right way" to do things. If you disagree with their approach, you are communicating to them that they are wrong. And Controls won't easily agree with you that they're wrong.
 
 ## Preferences
 * Learns by thinking
 * "Team" means the people who work for me
+* When Controls 
 
 ## Core Balance Concerns
 
