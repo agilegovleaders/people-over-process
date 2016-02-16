@@ -1,5 +1,5 @@
 # Human Behavior
-When working with other people, there is a lot more going on than you might imagine. We've all been in situations with otherwise "normal people" who have completely lost their minds for "no good reason". In fact, there is always a good reason for bad behavior, just not necessarily one that makes a whole lot of sense, unless you look under the surface.
+When working with other people, there is a lot more going on than you might imagine. We've all been in situations with "otherwise normal people" who have completely lost their minds for "no good reason". In fact, there is always a good reason for bad behavior, just not necessarily one that makes a whole lot of sense, unless you look under the surface.
 
 ## Wiring
 The field of neuroscience shows us that a large part of human behavior is actually hard-wired into our system through set patterns of neural flow in the brain that scientists refer to as neuropathways. Think of these pathways as railroad tracks and your thoughts as rail cars ensuring that you engage in the same, predictable patterns of behavior over and over again.
