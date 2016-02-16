@@ -6,8 +6,8 @@ When Controls do or say something, they are not just offering a suggestion, they
 This is just one of the many ways you can unknowingly trigger a Control. Following are specific characteristics about a Control that are helpful to know when working with them.
 
 ## Preferences
-* Learns by thinking
-* "Team" means the people who work for me
+* They prefer to **learn by thinking**, meaning that if they aren't sure how to respond to something, they will often "go into their head", practicing and refining the right response so that when they eventually share it, they can stand behind it.
+* The word **Team** to them means the people who work for them.
 * When Controls 
 
 ## Core Balance Concerns
