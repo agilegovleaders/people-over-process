@@ -34,7 +34,9 @@ Once Controls fall into "the trigger zone" their survival strategies will cause 
 ## Alignment
 Following are suggestions for ways to work successfully with a Control. The key is to avoid triggering them while offering them what they need to remained balanced:
 
-* Build rapport with them by acknowledging the value of their ideas
+* Build rapport with them by acknowledging the value of their ideas, letting them know that you're the kind of person that "gets it".
+* Begin conversations with them by setting good context, which is to let them know why you're talking about what you're talking about, why you're talking with them about it and what you'd like from them in the conversation.
+* 
 
 
 
