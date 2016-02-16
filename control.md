@@ -32,7 +32,7 @@ Once Controls fall into "the trigger zone" their survival strategies will cause 
 
 
 ## Alignment
-Following are suggestions for working successfully with a Control. The key is to avoid triggering them while offering them what they need to remained balanced:
+Following are suggestions for ways to work successfully with a Control. The key is to avoid triggering them while offering them what they need to remained balanced:
 
 * Build rapport with them by acknowledging the value of their ideas
 
