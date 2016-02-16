@@ -13,7 +13,11 @@ It turns out that not all survival strategies are built the same. In nature we c
 
 * **Hibernate** - Simply going to sleep and allowing the threat to safely pass. Some examples of animals that use this strategy are bears, bats, snakes, rodents and bees.
 
-These strategies run within the same animal species, meaning all rhinos will charge straight at a problem, while all antelopes will run away from a threat as quickly as possible. Animals aren't just hard-wired with a survival strategy, they also developed supportive physical characteristics that increase the likelihood of survival success. For example, beavers have the proper equipment to cut down trees and construct dams while spiders are able to spin webs and bears have the ability to slow down their metabolism for extended periods of time.
+These strategies run within the same animal species, meaning all rhinos will charge straight at a problem, while all antelopes will run away from a threat as quickly as possible.
+
+
+## Survival Characteristics
+Animals aren't just hard-wired with a survival strategy, they also developed supportive physical characteristics that increase the likelihood of survival success. For example, beavers have the proper equipment to cut down trees and construct dams while spiders are able to spin webs and bears have the ability to slow down their metabolism for extended periods of time.
 
 Interestingly though, we find that humans are the exception to this rule. For some reason, the human species uses all four survival strategies. And, for some even stranger reason, in spite of our physical similarity to each other, every human actually has a primary one that you favor, and this is what forms the basis for the four Style distinctions in this section.
 
