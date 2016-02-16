@@ -25,11 +25,12 @@ Controls risk falling into "the trigger zone" when their following "core balance
 
 ## Triggered Behaviors
 Once Controls fall into "the trigger zone" their survival strategies will cause them to engage in the following behaviors:
-* Dictating - barking orders, telling others what to do.
-* Covering up - making up answers and delivering them confidently.
-* Arrogance - other people are stupid, they don't "get it".
-* Bullying - belittling others, forcing them to do things against their will.
+* **Dictating** - barking orders, telling others what to do.
+* **Covering up** - making up answers and delivering them confidently.
+* **Arrogance** - other people are stupid, they don't "get it".
+* **Bullying** - belittling others, forcing them to do things against their will.
 
+They aren't aware they are acting like this, their survival strategy is telling them that his is the 
 
 ## Alignment
 Following are suggestions for ways to work successfully with a Control. The key is to avoid triggering them while offering them what they need to remained balanced:
