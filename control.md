@@ -9,7 +9,6 @@ When Controls do or say something, they are not just offering a suggestion, they
 * When Controls 
 
 ## Core Balance Concerns
-
 Every Style risks falling into "the trigger zone" when their "core balance concerns" aren't being met. The Executive becomes susceptible to losing balance when:
 * There is uncertainty about the direction we're going - *why are we doing this*?
 * The conversation or activity lacks sufficient context - *why are we talking about this*?
