@@ -13,14 +13,14 @@ This is just one of the many ways you can unknowingly trigger a Control. Followi
 * Controls would rather read a high-level, **executive summary** than spend a lot of time with the details and prefer communication in **bullet points** instead of lengthy explanations. 
 
 ## Core Balance Concerns
-Every Style risks falling into "the trigger zone" when their "core balance concerns" aren't being met. Controls become susceptible to losing balance when:
+Every Style risks falling into "the trigger zone" when their "core balance concerns" aren't being met. Controls become susceptible to losing balance when any of the following conditions exist:
 * There is uncertainty about the direction a project is headed - *why are we doing this*?
 * The conversation or activity lacks sufficient context - *why are we talking about this*?
 * There is a lack of clarity about what we're doing - *what's the point*?
 * People are diligently working, but there doesn't appear to be a good plan in place.
-* A breakdown happens that "could have been avoided" - they HATE surprises!
+* A breakdown happens that could have been avoided - they HATE surprises!
 * He/she doesn't have good answers to important questions that others are asking.
-* Others start to think that the Executive don't know what he/she is doing.
+* Others start to think that the Control don't know what he/she is doing.
 
 
 ## Triggered Behaviors
