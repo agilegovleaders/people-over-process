@@ -37,7 +37,7 @@ Following are suggestions for ways to work successfully with a Control. The key 
 
 * Build rapport with them by acknowledging the value of their ideas, letting them know that you're the kind of person that "gets it".
 * Begin conversations with them by setting good context, which is to let them know why you're talking about what you're talking about, why you're talking with them about it and what you'd like from them in the conversation.
-* 
+* Make offers of support to help influence other people to understand and participate in their visions.
 
 
 
