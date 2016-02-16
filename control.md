@@ -30,7 +30,7 @@ Once Controls fall into "the trigger zone" their survival strategies will cause 
 * **Arrogance** - other people are stupid, they don't "get it".
 * **Bullying** - belittling others, forcing them to do things against their will.
 
-In their triggered state, they aren't aware they are acting like this, their survival strategy is telling them that his is the 
+Once in a triggered state, they aren't even aware they are acting like this. Their survival strategy is guiding them to calm their own biology in this manner. 
 
 ## Alignment
 Following are suggestions for ways to work successfully with a Control. The key is to avoid triggering them while offering them what they need to remained balanced:
