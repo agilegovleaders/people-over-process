@@ -33,7 +33,7 @@ Here's how it works. Our brains are comprised of three primary areas, working fr
 * Finally, at the outermost layer you will find the neocortex, which is the largest and most complex part of the human brain. The neocortex is involved with all higher functions such as sensory perception, spatial reasoning, language and complex thought. It's where things like art, science and culture live in us. It could be argued that the neocortex is the thing that makes us uniquely human. That is, until the moment we experience pressure.
 
 ## Too Much Pressure
-When exposed to a high enough level of pressure, for instance when you find yourself with 2 more hours of work to do on a project that is due in 30 minutes or when you are being asked by the press to comment on an emerging scandal in your office, the human brain loses its ability to distinguish between actual and perceived risk causing the amygdala to kick into high gear to protect you from the threat.
+When humans are exposed to a high enough level of pressure, for instance when you find yourself with 2 more hours of work to do on a project that is due in 30 minutes or when you are being asked by the press to comment on an emerging scandal in your office, the human brain loses its ability to distinguish between actual and perceived risk causing the amygdala to kick into high gear to protect you from the threat.
 
 ![](24024310606_215e426a02_z.jpg)
 
