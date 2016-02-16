@@ -15,7 +15,7 @@ One of the primary things separating the human experience from the animal kingdo
 
 Animals really only deal with pressure associated with threats to their lives, so our evolution is no small feat given that we share the same biological imperative for survival as our animal counterparts.
 
-Humans have advanced to the point where survival ranks as only one of our primary concerns. And while it remains a very important one, we also put a lot of our attention on what other people think about us and how that impacts our ability to earn a living, advance our careers, find a partner and build a healthy community.
+Humans have advanced to the point where survival ranks as only one of our primary concerns. And while it remains a very important one, we also put a lot of our attention on what other people think about us and how that impacts our ability to earn a living, advance our careers, find a partner and build a healthy community for ourselves.
 
 And while we have expanded our capacity for the things that concern us, our method for handling them remains pretty much the same. This is because our brain has a really hard time distinguishing between actual risk (threat of death) and perceived risk (threat of humiliation) and we are hard-wired to respond in a particular way.
 
