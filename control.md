@@ -6,13 +6,15 @@ When Controls do or say something, they are not just offering a suggestion, they
 This is just one of the many ways you can unknowingly trigger a Control. Following are specific characteristics about a Control that are helpful to know when working with them.
 
 ## Preferences
-* They prefer to **learn by thinking**, meaning that if they aren't sure how to respond to something, they will often "go into their head", practicing and refining the right response so that when they eventually share it, they can stand behind it.
-* The word **Team** to them means the people who work for them.
-* When Controls 
+* Controls prefer to **learn by thinking**, meaning that if they aren't sure how to respond to something, they will often "go into their head", practicing and refining the right response so that when they eventually share it, they can stand behind it.
+
+* The word **Team** to Controls means the people who work for them.
+
+* Controls would rather read a high-level, **executive summary** than spend a lot of time with the details and prefer communication in **bullet points** instead of lengthy explanations. 
 
 ## Core Balance Concerns
-Every Style risks falling into "the trigger zone" when their "core balance concerns" aren't being met. The Executive becomes susceptible to losing balance when:
-* There is uncertainty about the direction we're going - *why are we doing this*?
+Every Style risks falling into "the trigger zone" when their "core balance concerns" aren't being met. Controls become susceptible to losing balance when:
+* There is uncertainty about the direction a project is headed - *why are we doing this*?
 * The conversation or activity lacks sufficient context - *why are we talking about this*?
 * There is a lack of clarity about what we're doing - *what's the point*?
 * People are diligently working, but there doesn't appear to be a good plan in place.
