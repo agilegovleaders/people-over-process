@@ -48,10 +48,9 @@ And, this survival response doesn't remained contained inside of a person's own 
 
 So, when one person feels threatened, others around that person pick up on the emotional state of threat. In other words, triggered people trigger other people as a community-based survival strategy to address the detected threat, real or imagined.
 
-
-## Overcoming Biology
 Your biology doens't need you to know any of this and it is completely happy that you don't. It's only job is ensuring your survival and its evidence that your survival strategy is effective is that you are still alive right now. So, it has no interest in changing this hard-wired behavior.
 
+## Overcoming Biology
 However, you are more than just your biology, you are also your intentions in life. And when you begin to pay attention, you will find that most of the time that your biology runs your survival programming, your life isn't actually at stake. And once you can begin to see this pattern in yourself, you can begin to also notice it in others. And when that happens, you can use that information to dramatically improve your ability to interact and work with them.
 
 Neuroscience shows that while the primitive survival strategies are hard-wired into your brain, you actually have the ability to lay new pathways over the top of the old ones, altering your behavior. By paying attention on a regular schedule, intentional repetition allows you to lay down new "train tracks" of hard-wired behavior. This happens slowly but when our neural pathways and associations change, our brain chemistry also changes.
