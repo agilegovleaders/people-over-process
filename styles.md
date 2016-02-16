@@ -36,4 +36,4 @@ Interestingly though, we find that humans are the exception to this rule. For so
 
 **[Authority](authority.md)**: These people rely on a hibernate strategy...
 
-This page Copyright 2016 Prosperity Rules, LLC. All Rights Reserved.
+This section Copyright 2016 Prosperity Rules, LLC. All Rights Reserved.
