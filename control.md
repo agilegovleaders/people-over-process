@@ -1,5 +1,5 @@
 # Control
-People with a Control Style tend to be strong-willed, independent-thinkers who usually focus on the big picture. They can't be bothered with the details, but would rather they spend their time coming up with great ideas for the future. Controls don’t often have the best people skills and can struggle with relationships. They don't often enjoy a lot of chit chat but they do love telling other people what to do.
+People with a Control Style tend to be strong-willed, independent-thinkers who usually focus on the big picture. They can't be bothered with the details, but would rather spend their time coming up with great ideas for the future. Controls don’t often have the best people skills and can struggle with relationships. They don't often enjoy a lot of chit chat but they do love telling other people what to do.
 
 When Controls do or say something, they are not just offering a suggestion, they are actually demonstrating how they want things to be done. In other words, they are illustrating the "right way" to do things. If you disagree with their approach, you are communicating to them that you think they are wrong, and they won't easily agree with you.
 
