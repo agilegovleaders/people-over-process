@@ -24,16 +24,19 @@ Controls risk falling into "the trigger zone" when their following "core balance
 
 
 ## Triggered Behaviors
-Every Style risks falling into "the trigger zone" when their "core balance concerns" aren't being met. The Executive becomes susceptible to losing balance when:
-* Dictating - barking orders, telling others what to do
-* Covering up - making up answers and delivering them confidently
-* Arrogance - other people are stupid, they don't "get it
-* Bullying - belittling others, forcing them to do things against their will
+Once Controls fall into "the trigger zone" their survival strategies will cause them to engage in the following behaviors:
+* Dictating - barking orders, telling others what to do.
+* Covering up - making up answers and delivering them confidently.
+* Arrogance - other people are stupid, they don't "get it".
+* Bullying - belittling others, forcing them to do things against their will.
 
 
 ## Alignment
+Following are suggestions for working successfully with a Control. The key is to avoid triggering them while offering them what they need to remained balanced:
 
-* 
+* Build rapport with them by acknowledging the value of their ideas
 
 
-This page Copyright 2016 Prosperity Rules, LLC. All Rights Reserved.
+
+
+This section Copyright 2016 Prosperity Rules, LLC. All Rights Reserved.
