@@ -3,7 +3,7 @@ As the field of neuroscience illustrates, a person's behavior is predictable whe
 
 
 ## Survival Strategies
-It turns out that not all survival strategies are built the same. In nature we consistently find the following four primary strategies designed to save animals' lives, whether the threat is from another animal or the environment itself:
+It turns out that not all survival strategies are built the same. In nature we consistently find the following four primary strategies designed to save animals' lives, whether the threat is from another animal or the environment itself, like the coming of winter:
 
 * **Dictate** - Tackling a threat head-on, through attack or some form of manipulation. Some examples of animals that use this strategy are sharks, rhinoceros, lions and beavers.
 * **Migrate** - Fleeing from a threat, through outrunning, outmaneuvering or out-traveling. Some examples of animals that use this strategy are whales, antelope, birds and butterflies.
