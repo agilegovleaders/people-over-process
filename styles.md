@@ -17,7 +17,7 @@ These strategies run within the same animal species, meaning all rhinos will cha
 
 
 ## Survival Characteristics
-Animals aren't just hard-wired with a survival strategy, they also developed supportive physical characteristics that increase the likelihood of survival success. For example, beavers have the proper equipment to cut down trees and construct dams while spiders are able to spin webs and bears have the ability to slow down their metabolism for extended periods of time.
+Animals aren't just hard-wired with a survival strategy, they also developed supportive physical characteristics that increase the likelihood of survival success. For example, beavers have the perfect equipment for cutting down trees and constructing dams while spiders are capable of and adept at spinning webs and bears have the ability to slow down their metabolism for extended periods of time.
 
 Interestingly though, we find that humans are the exception to this rule. For some reason, the human species uses all four survival strategies. And, for some even stranger reason, in spite of our physical similarity to each other, every human actually has a primary one that you favor, and this is what forms the basis for the four Style distinctions in this section.
 
