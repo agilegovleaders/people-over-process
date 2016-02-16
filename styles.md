@@ -7,7 +7,7 @@ It turns out that not all survival strategies are built the same. In nature we c
 * **Tolerate** - Outlasting the threat, relying on innate survival qualities such as protection or disguise. Some examples of animals that use this strategy are buffalo, crabs, porcupines and chameleons.
 * **Hibernate** - Simply going to sleep and allowing the threat to safely pass. Some examples of animals that use this strategy are bears, bats, snakes, rodents and bees.
 
-The strategies run within the same animal species, meaning that all rhinos respond to threats in the same way - which is to charge straight at a problem - while all antelopes will respond in a completely different way - which is to run away from a threat as quickly as possible
+These strategies run within the same animal species, meaning all rhinos will charge straight at a problem, while all antelopes will run away from a threat as quickly as possible. Animals aren't just hard-wired with a survival strategy, they were also given physical characteristics that allow them to be successful. Beavers were built to cut down trees and construct dams while spiders spin webs.
 
 Interestingly though, we find that humans are the exception to this rule. For some reason, we got all four survival strategies. And, for some even stranger reason, you as a human actually have a primary one that you favor, and this is what forms the basis for the four Style distinctions in this section.
 
