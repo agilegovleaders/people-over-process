@@ -9,7 +9,7 @@ It turns out that not all survival strategies are built the same. In nature we c
 
 These strategies run within the same animal species, meaning all rhinos will charge straight at a problem, while all antelopes will run away from a threat as quickly as possible. Animals aren't just hard-wired with a survival strategy, they also developed supportive physical characteristics that increase the likelihood of survival success. For example, beavers have the proper equipment to cut down trees and construct dams while spiders are able to spin webs and bears have the ability to slow down their metabolism for extended periods of time.
 
-Interestingly though, we find that humans are the exception to this rule. For some reason, we got all four survival strategies. And, for some even stranger reason, you as a human actually have a primary one that you favor, and this is what forms the basis for the four Style distinctions in this section.
+Interestingly though, we find that humans are the exception to this rule. For some reason, the human species uses four survival strategies. And, for some even stranger reason, you as a human actually have a primary one that you favor, and this is what forms the basis for the four Style distinctions in this section.
 
 *Add section on the four survival strategies...*
 
