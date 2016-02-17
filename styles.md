@@ -40,6 +40,8 @@ They get triggered whenever they feel a loss of freedom. When they are forced to
 
 They like it when things are predictable and get triggered when faced with  instability in their environment. Powers like to know what they are supposed to do and love to work off of action plans and to-do lists. However, when there isn't enough work, or when things get too chaotic, Powers can easily get frustrated. To relieve the pressure they feel, Powers will take on more work because it feels good to put their head down and power through a bunch of tasks.
 
-**[Authority](authority.md)**: These people rely on a hibernate strategy...
+**[Authority](authority.md)** ***hibernate*** under pressure.
+
+They get triggered when they aren't sure how things are going to turn out, which they interpret as a lack of security. If there is little evidence about how a project is going to turn out, or no data supporting a project’s direction, this Style will begin to feel nervous and will often pull away from the group back to their own desk.  In order to relieve their pressure, these people tend to want to review as much as possible on a subject (ie, be the “authority” on the topic); therefore, we call this Style Authority: 
 
 This section Copyright 2016 Prosperity Rules, LLC. All Rights Reserved.
