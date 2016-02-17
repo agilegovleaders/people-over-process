@@ -30,11 +30,11 @@ Interestingly though, we find that humans are the exception to this rule. For so
 
 **[Controls](control.md)** dictate under pressure.
 
-They get easily triggered whenever they feel uncertain about the direction a project, conversation or relationship is headed. The idea that nobody is driving the ship causes them great anxiety. To relieve the pressure they feel, they will naturally begin telling others what to do or simply take over. Their approach can feel like a bull in a china shop to those around them, but it helps them feel more in control of their environment.
+They get easily triggered whenever they feel uncertain about the direction a project, conversation or relationship is headed. The idea that nobody is driving the ship causes them great anxiety. To relieve the pressure they feel, Controls will naturally begin telling others what to do or simply take over. Their approach can feel like a bull in a china shop to those around them, but it helps them feel more in control of their environment.
 
 **[Influences](influence.md)** migrate under pressure.
 
-They get easily triggered when they feel that they are losing their freedom.  If a project is taking too long, or if they are assigned repetitive tasks, Influences will get impatient and nervous, often complaining about feeling "fenced in". To relieve the pressure they feel, they tend to migrate away from the existing work to a different environment where they can help influence others to start something new. 
+They get easily triggered when they feel that they are losing their freedom. If a project takes too long or if they are assigned repetitive tasks, Influences will get impatient and nervous, often complaining about feeling "fenced in". They get itchy feet easily, so to relieve the pressure they feel, Influences tend to migrate away from the existing work to a different environment where they can help influence others to start something new. 
 
 **[Power](power.md)**: These people rely on a tolerate strategy...
 
