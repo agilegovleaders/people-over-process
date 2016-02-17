@@ -1,5 +1,5 @@
 # Influence
-People with an Influence Style are typically go, go, go. They are relationship-oriented and tend to create friendships very easily. They look for the unique approach, the different way, the out-of-the-box possibility. Their attitude can be infectious—positive or negative—and when harnessed, it can help a team produce tremendous momentum. Their desire is to be first on behalf of others, so they tend to be early adapters to change.
+People with an Influence Style are typically go, go, go. They are relationship-oriented and tend to create friendships very easily. They look for the unique approach, the different way, the out-of-the-box possibility. Their attitude can be infectious - positive or negative - and when harnessed, it can help a team produce tremendous momentum. Their desire is to be first on behalf of others, so they tend to be early adapters to change.
 
 When Influences are in team environment, they often want to be able to contribute by starting something new rather than working on an existing project. If instead the team attempts to constrain an Influence with repetitive tasks, the Influence will tend to push back because they will feel like they are being told what to do, which is a core fear.
 
