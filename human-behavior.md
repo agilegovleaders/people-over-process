@@ -4,7 +4,7 @@ When working with other people, there is a lot more going on than you might imag
 ## Natural Wiring
 The field of neuroscience shows us that a large part of human behavior is actually hard-wired into our system through set patterns of neural flow in the brain that scientists refer to as neuropathways. Think of these pathways as railroad tracks and your thoughts as rail cars ensuring that you engage in the same, predictable patterns of behavior over and over again.
 
-One thing that we are all hard-wired for is survival and these pre-programmed patterns of behavior are designed to save your life. When your system detects a serious threat, your biology kicks into high gear driving a fight or flight response, which we do completely without conscious thought. This is why when people survive a near-death experience they often struggle to recall what even happened.
+One thing that we are all hard-wired for is survival. These pre-programmed patterns of behavior are actually designed to save your life. When your system detects a serious threat, your biology kicks into high gear driving a fight or flight response, which we do completely without conscious thought. This is why when people survive a near-death experience they often struggle to recall what even happened.
 
 Interestingly, this hard-wired pattern of behavior is more easily triggered than you might think and your survival strategy is employed in lots of situations when there is no actual threat to your life.
 
