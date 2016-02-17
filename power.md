@@ -44,8 +44,10 @@ Once in a triggered state, they aren't even aware they are acting like this. The
 
 Following are suggestions for ways to work successfully with a Power. The key is to avoid triggering them while offering them what they need to remained balanced:
 
-* Build rapport with them by coming alongside them and demonstrating that you are willing to work hard as well.. 
-* Begin conversations with them on personal issues as Powers tend to want to have professional friendships.  However, move to the task list relatively quickly in order to show that you are focused on getting the work done.   
+* Build rapport with them by coming alongside them and demonstrating that you are willing to work hard as well.
+
+* Begin conversations with them on personal issues as Powers tend to want to have professional friendships.  However, move to the task list relatively quickly in order to show that you are focused on getting the work done.
+
 * Make offers of support to build review mechanisms that will enable the team to know if the hard work we are doing is paying off. 
 
 
