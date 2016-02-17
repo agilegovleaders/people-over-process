@@ -30,7 +30,7 @@ Interestingly though, we find that humans are the exception to this rule. For so
 
 **[Control](control.md)**: Dictate 
 
-The primary trigger for Controls is when begin to feel uncertain about the direction a project is heading, their biology begins to act up. In order to relieve the perceived pressure, these people tend to dictate to others and tell them what to do.  This approach helps them feel more in control of their environment; therefore, we call this Style Control....
+The primary trigger for Controls is feeling uncertain about the direction a project, conversation or relationship is headed. This generates To relieve the perceived pressure they feel, they will tell others what to do or just take over.  This approach helps them feel more in control of their environment.
 
 **[Influence](influence.md)**: These people rely on a migrate strategy...
 
