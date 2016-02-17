@@ -6,7 +6,7 @@ The field of neuroscience shows us that a large part of human behavior is actual
 
 One thing that we are all hard-wired for is survival. These pre-programmed patterns of behavior are actually designed to save your life. When your system detects a serious threat, your biology kicks into high gear driving a fight or flight response, which we do completely without conscious thought. This is why when people survive a near-death experience they often struggle to recall what even happened.
 
-Interestingly, this hard-wired pattern of behavior is more easily triggered than you might think and your survival strategy is employed in lots of situations when there is no actual threat to your life.
+Interestingly, this hard-wired pattern of behavior is more easily triggered than you might think and your survival strategy is employed in lots of situations when there is no actual risk to your life.
 
 And, this isn't just happening to you, it's also going on in the people around you all the time.
 
