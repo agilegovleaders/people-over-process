@@ -30,7 +30,7 @@ Interestingly though, we find that humans are the exception to this rule. For so
 
 **[Control](control.md)**: Dictate 
 
-The primary trigger for Controls is feeling uncertain about the direction a project, conversation or relationship is headed. This generates To relieve the perceived pressure they feel, they will tell others what to do or just take over.  This approach helps them feel more in control of their environment.
+Controls get triggered whenever they feel uncertain about the direction a project, conversation or relationship is headed. This makes them feel out of control, so to relieve the perceived pressure, they will tell others what to do or just take over. Their approach can be a bit like a bull in a china shop, but it helps them feel more in control of their environment.
 
 **[Influence](influence.md)**: These people rely on a migrate strategy...
 
