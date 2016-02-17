@@ -8,11 +8,11 @@ This is just one of the many ways you can unknowingly trigger a Power. Following
 
 ## Preferences
 
-* Powers prefer to learn by doing, meaning that they would rather jump into action than over-talk or over-analyze something.
+* Powers prefer to **learn by doing**, meaning that they would rather jump into action than over-talk or over-analyze something.
 
-* The word Team to Powers means the people they roll up their sleeves and get the work done with.
+* The word **Team** to Powers means the people they roll up their sleeves and get the work done with.
 
-* Power would rather receive an action plan than spend a lot of time discussing the strategy or reviewing the details, and prefer friendly work-related updates over idle chit chat.
+* Powers would rather work off of an existing **action plan** than spend a lot of time discussing the strategy or reviewing the details, and they prefer friendly, work-related updates over idle chit chat.
 
 
 ## Core Balance Concerns
