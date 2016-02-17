@@ -42,6 +42,6 @@ They like it when things are predictable and get triggered when faced with  inst
 
 **[Authority](authority.md)** ***hibernate*** under pressure.
 
-They get triggered when they aren't sure how things will turn out, which they interpret as a lack of security. When projects move forward with little or no evidence to support their direction, Authorities will feel nervous and get agitated, often seeing others as irresponsible. To relieve the pressure they feel, they will often pull away from the group back to their own desk to review as much data as possible on a subject and become the authority on the topic.
+They get triggered when they're not sure how things will turn out, which they interpret as a lack of security. When projects move forward with little or no evidence to support their direction, Authorities will feel nervous and get agitated, often seeing others as irresponsible. To relieve the pressure they feel, they will often pull away from the group back to their own desk to review as much data as possible on a subject and become the authority on the topic.
 
 This section Copyright 2016 Prosperity Rules, LLC. All Rights Reserved.
