@@ -26,7 +26,7 @@ Interestingly though, we find that humans are the exception to this rule. For so
 
 
 ## Distinctions
-[Market Force](www.marketforceglobal.com) has distinguished the following four Styles according to their respective survival strategies, which get triggered by specific concerns that cause each to feel pressure as if their lives are at stake, even though there is no actual pressure.
+[Market Force](www.marketforceglobal.com) has distinguished the following four Styles according to their respective survival strategies:
 
 **[Control](control.md)**: These people rely on a dictate strategy...
 
