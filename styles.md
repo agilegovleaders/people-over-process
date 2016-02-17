@@ -30,7 +30,7 @@ Interestingly though, we find that humans are the exception to this rule. For so
 
 **[Controls](control.md)** ***dictate*** under pressure.
 
-They get triggered whenever they deem that the direction a project, conversation or relationship is headed is unclear or uncertain. The idea that nobody is driving the ship causes them great anxiety. To relieve the pressure they feel, Controls will naturally begin telling others what to do or simply take over. Their approach can feel like a bull in a china shop to those around them, but it helps them feel more in control of their environment.
+They get triggered whenever they deem that the direction a project, conversation or relationship is headed is unclear or uncertain. The idea that nobody is driving the ship causes them great anxiety. To relieve the pressure they feel, Controls will naturally begin telling others what to do or simply take over. Their approach can feel like a bull in a china shop to those around them, but it helps them feel greater control of their environment.
 
 **[Influences](influence.md)** ***migrate*** under pressure.
 
