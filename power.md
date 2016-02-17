@@ -35,7 +35,7 @@ Once Powers fall into "the trigger zone" their survival strategies will cause th
 * **Tolerating** - focusing on being busy instead of prioritizing tasks.
 * **Undermining** - gossiping about how a process isn’t working properly instead of addressing an issue directly.
 * **Frustration** - why aren't others working as hard as I am?
-* **Being a Pushover** - others handing off their work to avoid doing it themselves.
+* **Being a Pushover** - allowing others to hand off their work to them to avoid doing it themselves.
 
 Once in a triggered state, they aren't even aware they are acting like this. Their survival strategy is guiding them to calm their own biology in this manner.
 
