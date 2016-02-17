@@ -12,7 +12,7 @@ This is just one of the many ways you can unknowingly trigger an Influence. Foll
 
 * The word **Team** to Influences means the people they get to hang out with at work.
 
-* Influences like short, executive summaries with stories and pictures to illustrate key concepts, but they really prefer friendly, verbal communication.
+* Influences like short, **executive summaries** with **stories and pictures** to illustrate key concepts, but they really prefer friendly, verbal communication and connection.
 
 
 ## Core Balance Concerns
