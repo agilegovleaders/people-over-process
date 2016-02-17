@@ -32,7 +32,9 @@ Interestingly though, we find that humans are the exception to this rule. For so
 
 They get easily triggered whenever they feel uncertain about the direction a project, conversation or relationship is headed. The idea that nobody is driving the ship causes them great anxiety. To relieve the pressure they feel, they will naturally begin telling others what to do or simply take over. Their approach can feel like a bull in a china shop to those around them, but it helps them feel more in control of their environment.
 
-**[Influence](influence.md)**: Migrate strategy...
+**[Influences](influence.md)** migrate under pressure.
+
+They get easily triggered when they feel that they are losing their freedom.  If a project is taking too long, or if they are assigned repetitive tasks, this Style will begin to feel impatient and nervous, often complaining about feeling “fenced in.”  In order to relieve their pressure, these people tend to migrate away from the existing work to a different environment where they can help influence others to start something new; therefore, we call this Style 
 
 **[Power](power.md)**: These people rely on a tolerate strategy...
 
