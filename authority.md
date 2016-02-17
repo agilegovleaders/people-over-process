@@ -23,6 +23,7 @@ Authorities risk falling into "the trigger zone" when their following "core bala
 * Others appear to be dismissing their evidence - *why am I here if no one is going to listen to the facts*?
 * The project lacks an emphasis on data - *how do we know this is going to work*?
 * Things are moving too quickly - *this feels out of control*.
+* Others being wasteful - *am I the only one watching the bottom line*?
 * People are diligently working, but the results are low quality or not in order of priority.
 * A breakdown happens that they warned others about earlier - "see, I told you so!"
 * Feeling unprepared for a meeting as they did not receive materials beforehand.
