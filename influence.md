@@ -19,18 +19,12 @@ This is just one of the many ways you can unknowingly trigger an Influence. Foll
 
 Influences risk falling into "the trigger zone" when their following "core balance concerns" aren't being met:
 
-* The options for where to take a project are limited – do I have any freedom here?
-
-* The conversation or activity lacks an emphasis on people - why are we prioritizing the project over the people?
-
-* There are no openings for them to contribute – why am I here?
-
+* The options for where to take a project are limited - *do I have any freedom here*?
+* The conversation or activity lacks an emphasis on people- *why are we prioritizing the project over the people*?
+* There are no openings for them to contribute - *why am I here*?
 * People are diligently working, but there is no excitement in the building.
-
 * A breakdown occurs and no one wants to acknowledge the impact on the people involved.
-
 * A project starts to slow down and there is no feeling of movement or momentum.
-
 * Others start to try and micromanage the Influence’s time.
 
 
@@ -39,11 +33,8 @@ Influences risk falling into "the trigger zone" when their following "core balan
 Once Influences fall into "the trigger zone" their survival strategies will cause them to engage in the following behaviors:
 
 * **Migrating** – not being around, finding other new projects to start.
-
 * **Sacrificing** – agreeing to do things just to get meetings over with, then not doing them.
-
 * **Impatience** – others are moving too slowly, “I have to get out of here.”
-
 * **Flakiness** – not showing up for meetings or conference calls, not following through on commitments.
 
 Once in a triggered state, they aren't even aware they are acting like this. Their survival strategy is guiding them to calm their own biology in this manner.
