@@ -13,7 +13,7 @@ This is just one of the many ways you can unknowingly trigger an Authority. Foll
 
 * The word **Team** to Authorities means the people who they believe are up to their high standards.
 
-* Authorities prefer a **long report** full of supporting data, and appreciate written communications over quick verbal conversations, which allows them time to process.
+* Authorities appreciate a **long report** full of supporting data - they love graphs and charts. Their preferred means of communication is written instead of verbal, as it allows them time to process and consider.
 
 
 ## Core Balance Concerns
