@@ -44,7 +44,7 @@ Once in a triggered state, they aren't even aware they are acting like this. The
 
 Following are suggestions for ways to work successfully with an Influence. The key is to avoid triggering them while offering them what they need to remained balanced:
 
-* Build rapport with them by acknowledging their value to the team as a person.
+* Build rapport with them by acknowledging the human value and connection that they bring to the team.
 
 * Begin conversations with them on personal issues, and then ease into the business-related conversations.  If you have less time, ask permission to get down to business quickly.  The key is being authentic about the relationship.
 
