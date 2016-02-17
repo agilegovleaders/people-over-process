@@ -34,7 +34,7 @@ Authorities risk falling into "the trigger zone" when their following "core bala
 
 Once Influences fall into "the trigger zone" their survival strategies will cause them to engage in the following behaviors:
 
-* **Hibernating** - pulling back from a team and working more by themselves.
+* **Hibernating** - pulling back from a team and working by themselves.
 * **Capitulation** - letting others take the lead even though they disagree.
 * **Indifference** - not contributing during a project but saying "I told you so" if something does not work.
 * **Blocking** - using evidence to try and win every argument, slowing a process to a halt.
