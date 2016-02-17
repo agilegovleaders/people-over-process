@@ -34,7 +34,7 @@ They get easily triggered whenever they feel uncertain about the direction a pro
 
 **[Influences](influence.md)** migrate under pressure.
 
-They get easily triggered when they feel that they are losing their freedom.  If a project is taking too long, or if they are assigned repetitive tasks, this Style will begin to feel impatient and nervous, often complaining about feeling “fenced in.”  In order to relieve their pressure, these people tend to migrate away from the existing work to a different environment where they can help influence others to start something new; therefore, we call this Style 
+They get easily triggered when they feel that they are losing their freedom.  If a project is taking too long, or if they are assigned repetitive tasks, Influences will get impatient and nervous, often complaining about feeling "fenced in". In order to relieve their pressure, these people tend to migrate away from the existing work to a different environment where they can help influence others to start something new; therefore, we call this Style 
 
 **[Power](power.md)**: These people rely on a tolerate strategy...
 
