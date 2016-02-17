@@ -30,7 +30,7 @@ Interestingly though, we find that humans are the exception to this rule. For so
 
 **[Control](control.md)**: Dictate 
 
-Controls get triggered whenever they feel uncertain about the direction a project, conversation or relationship is headed. It seems to them that nobody is driving the ship which creates great anxiety in them. To relieve the pressure they feel, they will tell others what to do or just take over. Their approach can be a bit like a bull in a china shop, but it helps them feel more in control of their environment.
+Controls get triggered whenever they feel uncertain about the direction a project, conversation or relationship is headed. The idea that nobody is driving the ship causes great anxiety in them. To relieve the pressure they feel, they will tell others what to do or just take over. Their approach can be a bit like a bull in a china shop, but it helps them feel more in control of their environment.
 
 **[Influence](influence.md)**: These people rely on a migrate strategy...
 
