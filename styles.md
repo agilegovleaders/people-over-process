@@ -28,7 +28,9 @@ Interestingly though, we find that humans are the exception to this rule. For so
 ## Distinctions
 [Market Force](www.marketforceglobal.com) has distinguished the following four Styles according to their respective survival strategies:
 
-**[Control](control.md)**: These people naturally use a dictate strategy when they feel pressure. Their primary trigger is uncertainty. If they are on a project and begin to feel unsure about the future and where the project is going, their biology begins to act up. In order to relieve the perceived pressure, these people tend to dictate to others and tell them what to do.  This approach helps them feel more in control of their environment; therefore, we call this Style Control....
+**[Control](control.md)**: Dictate 
+
+These primary trigger for Controls is when uncertainty enters their environment. When they find themselves on a project and feel unsure about the direction it is heading, their biology begins to act up. In order to relieve the perceived pressure, these people tend to dictate to others and tell them what to do.  This approach helps them feel more in control of their environment; therefore, we call this Style Control....
 
 **[Influence](influence.md)**: These people rely on a migrate strategy...
 
