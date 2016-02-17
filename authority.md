@@ -1,6 +1,6 @@
 # Authority
 
-People with an Authority Style tend to be all about quality control and standards. They see imperfections and areas where we can do better, and their attention to detail is typically unmatched by the other styles. Sometimes Authorities will focus so much on where things are not working that others feel that they are too downtrodden.  However, when they jump in with an attitude for helping, rather than proving others wrong, Authorities become invaluable team members.
+People with an Authority Style tend to be all about quality control and standards. They see imperfections and areas where the team can do better, and their attention to detail is typically unmatched by the other styles. Sometimes Authorities will focus so much on where things are not working that others feel that they are too downtrodden.  However, when they jump in with an attitude for helping, rather than proving others wrong, Authorities become invaluable team members.
 
 When Authorities speak, they tend to do so from the evidence and data, and less so from instinct or future vision.  Therefore, if an Authority person feels as though they are not being listened to (that their evidence is not being considered), they tend to pull back from active contribution and stay in more of a wait-and-see-how-it-turns-out-mode.
 
