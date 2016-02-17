@@ -11,7 +11,7 @@ It turns out that not all survival strategies are built the same. In nature we c
 
 * **Tolerate** - Outlasting the threat, relying on innate survival qualities such as protection or disguise. Some examples of animals that use this strategy are buffalo, crabs, porcupines and chameleons.
 
-* **Hibernate** - Simply going to sleep and allowing the threat to safely pass. Some examples of animals that use this strategy are bears, bats, snakes, rodents and bees.
+* **Hibernate** - Simply pulling in from the environment and allowing the threat to safely pass. Some examples of animals that use this strategy are bears, tortoises, bats, snakes, rodents and bees.
 
 These strategies run within the same animal species, meaning all rhinos will charge straight at a problem, while all antelopes will run away from a threat as quickly as possible.
 
