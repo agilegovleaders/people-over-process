@@ -30,11 +30,11 @@ Interestingly though, we find that humans are the exception to this rule. For so
 
 **[Controls](control.md)** dictate under pressure.
 
-They get triggered whenever they deem that the direction a project, conversation or relationship is headed is uncertain. The idea that nobody is driving the ship causes them great anxiety. To relieve the pressure they feel, Controls will naturally begin telling others what to do or simply take over. Their approach can feel like a bull in a china shop to those around them, but it helps them feel more in control of their environment.
+They get triggered whenever they deem that the direction a project, conversation or relationship is headed is unclear or uncertain. The idea that nobody is driving the ship causes them great anxiety. To relieve the pressure they feel, Controls will naturally begin telling others what to do or simply take over. Their approach can feel like a bull in a china shop to those around them, but it helps them feel more in control of their environment.
 
 **[Influences](influence.md)** migrate under pressure.
 
-They get triggered when they feel a loss of freedom. When they are forced to do something in a particular way, if a project takes too long or if they are assigned repetitive tasks, Influences will get impatient and nervous, often complaining about feeling "fenced in". They get itchy feet easily, so to relieve the pressure they feel, Influences tend to migrate away from the existing work to a different environment where they can help influence others to start something new. 
+They get triggered whenever they feel a loss of freedom. When they are forced to do something in a particular way, if a project takes too long or when they are assigned repetitive tasks, Influences will get impatient and nervous, often complaining about feeling "fenced in". They get itchy feet easily, so to relieve the pressure they feel, Influences tend to migrate away from the existing work to a different environment where they can help influence others to start something new. 
 
 **[Power](power.md)** tolerate under pressure.
 
