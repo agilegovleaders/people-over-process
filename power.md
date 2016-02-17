@@ -27,14 +27,21 @@ Powers risk falling into "the trigger zone" when their following "core balance c
 * He/she doesn't feel like they have enough to do.
 * Others exclude the Power because they are too busy – they want a seat at the table.
 
-Triggered Behaviors
+
+## Triggered Behaviors
+
 Once Powers fall into "the trigger zone" their survival strategies will cause them to engage in the following behaviors:
-•	Tolerating – focusing on being busy instead of prioritizing tasks.
-•	Undermining – gossiping about how a process isn’t working properly instead of addressing an issue directly.
-•	Frustration – “why don’t others work as hard as me?”
-•	Being a Pushover – others giving them work to avoid doing work themselves.
+
+* **Tolerating** - focusing on being busy instead of prioritizing tasks.
+* **Undermining** - gossiping about how a process isn’t working properly instead of addressing an issue directly.
+* **Frustration** - why aren't others working as hard as I am?
+* **Being a Pushover** - others giving them work to avoid doing work themselves.
+
 Once in a triggered state, they aren't even aware they are acting like this. Their survival strategy is guiding them to calm their own biology in this manner.
-Alignment
+
+
+## Alignment
+
 Following are suggestions for ways to work successfully with a Power. The key is to avoid triggering them while offering them what they need to remained balanced:
 •	Build rapport with them by coming alongside them and demonstrating that you are willing to work hard as well.. 
 •	Begin conversations with them on personal issues as Powers tend to want to have professional friendships.  However, move to the task list relatively quickly in order to show that you are focused on getting the work done.   
