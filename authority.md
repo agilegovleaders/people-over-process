@@ -46,9 +46,9 @@ Once in a triggered state, they aren't even aware they are acting like this. The
 
 Following are suggestions for ways to work successfully with an Authority. The key is to avoid triggering them while offering them what they need to remained balanced:
 
-* Build rapport with them by acknowledging assessments as important and heard, even if we don’t act on all of them.
+* Build rapport with them by acknowledging their assessments as important and making them feel heard, even if you don’t act on all of them.
 
-* Begin conversations with them by letting them download their opinions, especially around problem areas.  Only once they have downloaded are Authorities typically open to considering what to do moving forward.
+* Begin conversations with them by letting them download their opinions, especially around problem areas. Once they have gotten it all out, Authorities are typically open to considering what to do moving forward.
 
 * Make offers of support to help them make the best decisions going forward, ones that will help ensure the success of the project.
 
