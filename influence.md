@@ -8,11 +8,11 @@ This is just one of the many ways you can unknowingly trigger an Influence. Foll
 
 ## Preferences
 
-•	Influences prefer to learn by talking, meaning that they like to brainstorm on new ideas or vent when they are upset because it tends to provide them with clarity in the moment.
+* Influences prefer to **learn by talking**. They tend to be verbal processors who like to brainstorm new ideas or vent when they are upset because it provides them with clarity in the moment.
 
-•	The word Team to Influences means the people they hang out with at work.
+* The word **Team** to Influences means the people they get to hang out with at work.
 
-•	Influences would prefer a very short executive summary with pictures than spend a lot of time with the details and prefer friendly, verbal communication instead of lengthy written explanations.
+* Influences like very short, executive summaries with pictures to illustrate key concepts, but prefer friendly, verbal communication.
 
 
 ## Core Balance Concerns
