@@ -23,9 +23,9 @@ Powers risk falling into "the trigger zone" when their following "core balance c
 * An activity lacks an emphasis on results - *where are the points on the board*?
 * Others don’t seem to be working as hard - *why am I the only one*?
 * Reviewing every detail instead of moving forward when there is work to be done.
-* Others are over-thinking a breakdown and not just moving on to fix it.
-* He/she doesn't feel like they have enough to do.
-* Others exclude the Power because they are too busy but all they want is a seat at the table.
+* Spending too much time talking about a breakdown rather than just moving on to fix it.
+* Feeling like they don't have enough to do.
+* Getting excluded because they are too busy when all they want is a seat at the table.
 
 
 ## Triggered Behaviors
