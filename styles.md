@@ -28,11 +28,11 @@ Interestingly though, we find that humans are the exception to this rule. For so
 ## Distinctions
 [Market Force](www.marketforceglobal.com) has distinguished the following four Styles according to their respective survival strategies:
 
-**[Control](control.md)**: Dictate 
+**[Controls](control.md)** dictate under pressure.
 
-Controls get easily triggered whenever they feel uncertain about the direction a project, conversation or relationship is headed. The idea that nobody is driving the ship causes them great anxiety. To relieve the pressure they feel, they will naturally begin telling others what to do or simply take over. Their approach can be a bit like a bull in a china shop to those around them, but it helps them feel more in control of their environment.
+They get easily triggered whenever they feel uncertain about the direction a project, conversation or relationship is headed. The idea that nobody is driving the ship causes them great anxiety. To relieve the pressure they feel, they will naturally begin telling others what to do or simply take over. Their approach can feel like a bull in a china shop to those around them, but it helps them feel more in control of their environment.
 
-**[Influence](influence.md)**: These people rely on a migrate strategy...
+**[Influence](influence.md)**: Migrate strategy...
 
 **[Power](power.md)**: These people rely on a tolerate strategy...
 
