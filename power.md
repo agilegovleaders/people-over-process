@@ -21,8 +21,8 @@ Powers risk falling into "the trigger zone" when their following "core balance c
 
 * A team is spending too much time on the big picture - *when are we going to get to work*?
 * An activity lacks an emphasis on results - *where are the points on the board*?
-* Others don’t seem to be working hard - *why am I the only one*?
-* We are reviewing every detail and not moving forward when there is work to be done.
+* Others don’t seem to be working as hard - *why am I the only one*?
+* Reviewing every detail instead of moving forward when there is work to be done.
 * Others are over-thinking a breakdown and not just moving on to fix it.
 * He/she doesn't feel like they have enough to do.
 * Others exclude the Power because they are too busy but all they want is a seat at the table.
