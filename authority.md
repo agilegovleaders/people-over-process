@@ -20,23 +20,23 @@ This is just one of the many ways you can unknowingly trigger an Authority. Foll
 
 Authorities risk falling into "the trigger zone" when their following "core balance concerns" aren't being met:
 
-* Others appear to be dismissing their evidence – why am I here if no one is going to listen to the facts?
-* The project lacks an emphasis on data – how do we know this is going to work?
-* Things are moving very quickly – “this feels out of control.”
+* Others appear to be dismissing their evidence - *why am I here if no one is going to listen to the facts*?
+* The project lacks an emphasis on data - *how do we know this is going to work*?
+* Things are moving very quickly - *this feels out of control*.
 * People are diligently working, but the results are low quality or not in order of priority.
-* A breakdown happens that they warned others about earlier – "see, I told you so!"
-* He/she doesn't feel prepared for a meeting as they did not receive materials beforehand.
-* Others start to think that the Authority is incompetent – this can start a huge fight.
+* A breakdown happens that they warned others about earlier - "see, I told you so!"
+* Feeling unprepared for a meeting as they did not receive materials beforehand.
+* Others start to think that the Authority is incompetent.
 
 
 ## Triggered Behaviors
 
 Once Influences fall into "the trigger zone" their survival strategies will cause them to engage in the following behaviors:
 
-* Hibernating – pulling back from a team and working more by themselves.
-* Capitulation – letting others take the lead even though they disagree.
-* Indifference – not contributing during a project but saying “I told you so” if something does not work.
-* Blocking – using evidence to try and win every argument, slowing a process to a halt.
+* **Hibernating** - pulling back from a team and working more by themselves.
+* **Capitulation** - letting others take the lead even though they disagree.
+* **Indifference** - not contributing during a project but saying "I told you so" if something does not work.
+* **Blocking** - using evidence to try and win every argument, slowing a process to a halt.
 
 Once in a triggered state, they aren't even aware they are acting like this. Their survival strategy is guiding them to calm their own biology in this manner.
 
