@@ -42,6 +42,6 @@ They like it when things are predictable and get triggered when faced with  inst
 
 **[Authority](authority.md)** ***hibernate*** under pressure.
 
-They get triggered when they aren't sure how things are going to turn out, which they interpret as a lack of security. If there is little evidence about how a project is going to turn out, or no data supporting a project’s direction, this Style will begin to feel nervous and will often pull away from the group back to their own desk.  In order to relieve their pressure, these people tend to want to review as much as possible on a subject (ie, be the “authority” on the topic); therefore, we call this Style Authority: 
+They get triggered when they aren't sure how things will turn out, which they interpret as a lack of security. When projects move forward with little or no evidence to support their direction, Authorities will feel nervous and get agitated, often seeing others as irresponsible. To relieve the pressure they feel, they will often pull away from the group back to their own desk to review as much data as possible on a subject and become the authority on the topic.
 
 This section Copyright 2016 Prosperity Rules, LLC. All Rights Reserved.
