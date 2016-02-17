@@ -34,11 +34,11 @@ They get triggered whenever they deem that the direction a project, conversation
 
 **[Influences](influence.md)** migrate under pressure.
 
-They get triggered when they feel that they are losing their freedom. If a project takes too long or if they are assigned repetitive tasks, Influences will get impatient and nervous, often complaining about feeling "fenced in". They get itchy feet easily, so to relieve the pressure they feel, Influences tend to migrate away from the existing work to a different environment where they can help influence others to start something new. 
+They get triggered when they feel a loss of freedom. When they are forced to do something in a particular way, if a project takes too long or if they are assigned repetitive tasks, Influences will get impatient and nervous, often complaining about feeling "fenced in". They get itchy feet easily, so to relieve the pressure they feel, Influences tend to migrate away from the existing work to a different environment where they can help influence others to start something new. 
 
 **[Power](power.md)** tolerate under pressure.
 
-They like things to be predictable and get triggered when faced with instability in their environment. Powers like to know what they are supposed to do and love action plans and to-do lists. However, when there isn't enough work or when things get too chaotic, Powers will begin to feel frustrated and need someone else to help clarify the priorities in order to calm their nerves. To relieve the pressure they feel, Powers will take on more work so that they can feel stable in the environment and “power through” a long to-do list; therefore, we call this Style Power: 
+They like things to be predictable and get triggered when faced with instability in their environment. Powers like to know what they are supposed to do and love to work off of action plans and to-do lists. However, when there isn't enough work or when things get too chaotic, Powers will get quickly frustrated, needing someone else to clarify the priorities. Powers will take on more work to relieve the pressure they feel.
 
 **[Authority](authority.md)**: These people rely on a hibernate strategy...
 
