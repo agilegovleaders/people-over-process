@@ -9,11 +9,11 @@ This is just one of the many ways you can unknowingly trigger an Authority. Foll
 
 ## Preferences
 
-* Authorities prefer to learn by reading, meaning that they like time to ponder and process, rather than brainstorming with others and/or making quick decisions.
+* Authorities prefer to **learn by reading**, meaning that they like time to ponder and process, rather than brainstorm with others and/or making quick decisions.
 
-* The word Team to Authorities means the people who they believe are up to their high standards.
+* The word **Team** to Authorities means the people who they believe are up to their high standards.
 
-* Authorities would prefer a long executive summary with all the supporting materials more than receiving bullet points, and they prefer written communications over quick verbal conversations as that gives them time to process.
+* Authorities prefer a **long report** full of supporting data, and appreciate written communications over quick verbal conversations, which allows them time to process.
 
 
 ## Core Balance Concerns
