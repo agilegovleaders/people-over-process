@@ -38,7 +38,7 @@ They get triggered whenever they feel a loss of freedom. When they are forced to
 
 **[Power](power.md)** ***tolerate*** under pressure.
 
-They like things to be predictable and get triggered when faced with any instability in their environment. Powers like to know what they are supposed to do and love to work off of action plans and to-do lists. However, when there isn't enough work or when things get too chaotic, Powers can easily get frustrated. To relieve the pressure they feel, Powers rely on others to clarify the priorities for them and they will always take on more work because it feels good to them to put their head down and power through a bunch of tasks.
+They like things to be predictable and get triggered when faced with any instability in their environment. Powers like to know what they are supposed to do and love to work off of action plans and to-do lists. However, when there isn't enough work or when things get too chaotic, Powers can easily get frustrated. To relieve the pressure they feel, Powers will always take on more work because it feels good to them to put their head down and power through a bunch of tasks.
 
 **[Authority](authority.md)**: These people rely on a hibernate strategy...
 
