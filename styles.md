@@ -28,17 +28,17 @@ Interestingly though, we find that humans are the exception to this rule. For so
 ## Distinctions
 [Market Force](www.marketforceglobal.com) has distinguished the following four Styles according to their respective survival strategies:
 
-**[Controls](control.md)** dictate under pressure.
+**[Controls](control.md)** ***dictate*** under pressure.
 
 They get triggered whenever they deem that the direction a project, conversation or relationship is headed is unclear or uncertain. The idea that nobody is driving the ship causes them great anxiety. To relieve the pressure they feel, Controls will naturally begin telling others what to do or simply take over. Their approach can feel like a bull in a china shop to those around them, but it helps them feel more in control of their environment.
 
-**[Influences](influence.md)** migrate under pressure.
+**[Influences](influence.md)** ***migrate*** under pressure.
 
 They get triggered whenever they feel a loss of freedom. When they are forced to do something in a particular way, if a project takes too long or when they are assigned repetitive tasks, Influences will get impatient and nervous, often complaining about feeling "fenced in". They get itchy feet easily, so to relieve the pressure they feel, Influences tend to migrate away from the existing work to a different environment where they can help influence others to start something new. 
 
-**[Power](power.md)** tolerate under pressure.
+**[Power](power.md)** ***tolerate*** under pressure.
 
-They like things to be predictable and get triggered when faced with any instability in their environment. Powers like to know what they are supposed to do and love to work off of action plans and to-do lists. However, when there isn't enough work or when things get too chaotic, Powers will get quickly frustrated. To relieve the pressure they feel, Powers rely on others to clarify the priorities and they will always take on more work because it feels good to them to put their head down and power through.
+They like things to be predictable and get triggered when faced with any instability in their environment. Powers like to know what they are supposed to do and love to work off of action plans and to-do lists. However, when there isn't enough work or when things get too chaotic, Powers can easily get frustrated. To relieve the pressure they feel, Powers rely on others to clarify the priorities and they will always take on more work because it feels good to them to put their head down and power through.
 
 **[Authority](authority.md)**: These people rely on a hibernate strategy...
 
