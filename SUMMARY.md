@@ -31,9 +31,9 @@
 * [Security](security.md)
 * [Terms](terms.md)
 * [Resources](resources.md)
+* [Recommended reading](recommended_reading.md)
 * [About AGL](about_agl.md)
 * [Acknowledgements](acknowledgements.md)
 * [Contribute](contribute.md)
 * [License](license.md)
-* [Recommended reading](recommended_reading.md)
 
