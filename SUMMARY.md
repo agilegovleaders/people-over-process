@@ -35,5 +35,5 @@
 * [Acknowledgements](acknowledgements.md)
 * [Contribute](contribute.md)
 * [License](license.md)
-* Recommended reading
+* [Recommended reading](recommended_reading.md)
 
