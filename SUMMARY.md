@@ -35,5 +35,4 @@
 * [Acknowledgements](acknowledgements.md)
 * [Contribute](contribute.md)
 * [License](license.md)
-* People
 
