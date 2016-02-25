@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [What They Say](what_they_say.md)
 * [About Agile](about_agile.md)
+* [People](people.md)
 * [Styles](styles.md)
    * [Control](control.md)
    * [Influence](influence.md)
@@ -35,5 +36,4 @@
 * [Acknowledgements](acknowledgements.md)
 * [Contribute](contribute.md)
 * [License](license.md)
-* [People](people.md)
 
