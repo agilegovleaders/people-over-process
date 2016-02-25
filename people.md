@@ -1,7 +1,5 @@
 # People
 
-# People
-
 When working with other people, there is a lot more going on than you might imagine. We've all been in situations with "otherwise normal people" who have "lost their minds" for "no good reason." 
 
 In fact, there are always a good reasons for bad behavior. They're just not necessarily ones that makes a whole lot of sense, unless you are able to look beneath the surface of what's actually going on.
