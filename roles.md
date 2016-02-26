@@ -14,7 +14,7 @@
 
 **[Product Owner](product_owner.md)**: The person responsible for maintaining the product backlog by representing the interests of the stakeholders, and ensuring the value of the work the development team does. *(Source: [Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))*
 
-**[Project Manager](project_manager.md)**: Government manager of the Agile process. Also sometimes called scrum master.
+**[Project Manager](project_manager.md)**: Manages the project and the coaches the team and Product Owner on the Agile process.
 
 **[Tester](tester.md)**: Government user to test features and functionality of the system.
 
