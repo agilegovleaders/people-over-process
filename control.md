@@ -7,6 +7,7 @@ When Controls do or say something, they are not just offering a suggestion, they
 This is just one of the many ways you can unknowingly trigger a Control. Following are specific characteristics about a Control that are helpful to know when working with them.
 
 ## Preferences
+
 * Controls prefer to **learn by thinking**, meaning that if they aren't sure how to respond to something, they will often "go into their head," practicing and refining the right response so that when they eventually share it, they can stand behind it.
 
 * The word **Team** to Controls means the people who work for them.
@@ -14,6 +15,7 @@ This is just one of the many ways you can unknowingly trigger a Control. Followi
 * Controls would rather read a high-level, **executive summary** than spend a lot of time with the details and prefer communication in **bullet points** instead of lengthy explanations. 
 
 ## Core Balance Concerns
+
 Controls risk falling into "the trigger zone" when their following "core balance concerns" aren't being met:
 * There is uncertainty about the direction a project is headed - *why are we doing this*?
 * The conversation or activity lacks sufficient context - *why are we talking about this*?
@@ -25,18 +27,20 @@ Controls risk falling into "the trigger zone" when their following "core balance
 
 
 ## Triggered Behaviors
+
 Once Controls fall into "the trigger zone" their survival strategies will cause them to engage in the following behaviors:
 * **Dictating** - barking orders, telling others what to do.
 * **Covering up** - making up answers and delivering them confidently.
-* **Arrogance** - other people are stupid, they don't "get it".
+* **Arrogance** - other people are stupid, they don't "get it."
 * **Bullying** - belittling others, forcing them to do things against their will.
 
 Once in a triggered state, they aren't even aware they are acting like this. Their survival strategy is guiding them to calm their own biology in this manner. 
 
 ## Alignment
-Following are suggestions for ways to work successfully with a Control. The key is to avoid triggering them while offering them what they need to remained balanced:
 
-* Build rapport with them by acknowledging the value of their ideas, letting them know that you're the kind of person that "gets it".
+Following are suggestions for ways to work successfully with a Control. The key is to avoid triggering them while offering them what they need to remain balanced:
+
+* Build rapport with them by acknowledging the value of their ideas, letting them know that you're the kind of person that "gets it."
 * Begin conversations with them by setting good context, which is to let them know why you're talking about what you're talking about, why you're talking with them about it and what you'd like from them in the conversation.
 * Make offers of support to help influence other people to understand and participate in their visions.
 
