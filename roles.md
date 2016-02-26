@@ -4,7 +4,7 @@
 
 **[Contracting Officer’s Representative](contracting_officers_representative.md) (COR)**: Performs functions specifically delegated to them by the contracting officer in writing for the particular contract/order. This individual may also serve as the product owner. 
 
-**[Developers](developers.md)**: Software architects who design the system and write code.
+**[Dev Team](dev-team.md)**: Developers, Designers, Testers, UX Experts who design and build the system.
 
 **[Executive](executive.md)**: Senior-level executive (CIO/CTO).
 
