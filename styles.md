@@ -49,7 +49,7 @@ They like it when things are predictable and get triggered when faced with  inst
 
 Authority ***hibernate*** under pressure.
 
-The feeling of security is very important to Authorities and they get triggered when they are unsure how things will turn out. When a project moves forward or a decision gets made with insufficient evidence to support their direction, Authorities will feel nervous and get agitated, often seeing others as irresponsible. To relieve the pressure they feel, they will often pull away from the group back to their own desk to review as much data as possible on a subject in order to become the authority on the topic to ensure a better outcome.
+The feeling of security is very important to Authorities, and they get triggered when they are unsure how things will turn out. When a project moves forward or a decision gets made with insufficient evidence to support their direction, Authorities will feel nervous and get agitated, often seeing others as irresponsible. To relieve the pressure they feel, they will often pull away from the group back to their own desk to review as much data as possible on a subject in order to become the authority on the topic to ensure a better outcome.
 
 *This section Copyright 2016 Prosperity Rules, LLC. All Rights Reserved.
 *
