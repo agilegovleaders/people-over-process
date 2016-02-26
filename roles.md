@@ -13,12 +13,3 @@
 **[Product Owner](product_owner.md)**: The person responsible for maintaining the product backlog by representing the interests of the stakeholders, and ensuring the value of the work the development team does. *(Source: [Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))*
 
 **[Project Manager](project_manager.md)**: Manages the project and the coaches the team and Product Owner on the Agile process.
-
-**[Tester](tester.md)**: Government user to test features and functionality of the system.
-
-*Source: [TechFAR: Examples of Team Members (IPT) Needed to Support Agile Software Development](https://github.com/usds/playbook/blob/gh-pages/_includes/techfar-online.md#examples-of-team-members-ipt-needed-to-support-agile-software-development)*
-
-
-
-
-
