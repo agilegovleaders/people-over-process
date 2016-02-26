@@ -8,8 +8,6 @@
 
 **[Executive](executive.md)**: Senior-level executive (CIO/CTO).
 
-**[Interface](interface.md)**: Ensures system can communicate with other systems or people as needed. This is not a required team member; membership depends on project needs.
-
 **[Legal](interface.md)**: Provides legal review of all documents and actions.
 
 **[Product Owner](product_owner.md)**: The person responsible for maintaining the product backlog by representing the interests of the stakeholders, and ensuring the value of the work the development team does. *(Source: [Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))*
