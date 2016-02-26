@@ -14,7 +14,6 @@
    * [Contracting Officer’s Representative](contracting_officers_representative.md)
    * [Dev Team](dev-team.md)
    * [Executive](executive.md)
-   * [Interface](interface.md)
    * [Legal](legal.md)
    * [Product Owner](product_owner.md)
    * [Project Manager](project_manager.md)
