@@ -1,12 +1,13 @@
 # Control
-People with a Control Style tend to be strong-willed, independent-thinkers who usually focus on the big picture. They can't be bothered with the details, but would rather just simplify things. They enjoy spending their time coming up with great ideas about the future. Controls don’t often have the best people skills and can struggle with relationships. They don't often enjoy a lot of chit chat but they do love telling other people what to do.
+
+Controls tend to be strong-willed, independent-thinkers who usually focus on the big picture. They can't be bothered with the details, but would rather just simplify things. They enjoy spending their time coming up with great ideas about the future. Controls don’t often have the best people skills and can struggle with relationships. They don't often enjoy a lot of chit chat but they do love telling other people what to do.
 
 When Controls do or say something, they are not just offering a suggestion, they are actually demonstrating how they want things to be done. In other words, they are illustrating the "right way" to do things. If you disagree with their approach, you are communicating to them that you think they are wrong, and they won't easily agree with you.
 
 This is just one of the many ways you can unknowingly trigger a Control. Following are specific characteristics about a Control that are helpful to know when working with them.
 
 ## Preferences
-* Controls prefer to **learn by thinking**, meaning that if they aren't sure how to respond to something, they will often "go into their head", practicing and refining the right response so that when they eventually share it, they can stand behind it.
+* Controls prefer to **learn by thinking**, meaning that if they aren't sure how to respond to something, they will often "go into their head," practicing and refining the right response so that when they eventually share it, they can stand behind it.
 
 * The word **Team** to Controls means the people who work for them.
 
