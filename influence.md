@@ -14,7 +14,6 @@ This is just one of the many ways you can unknowingly trigger an Influence. Foll
 
 * Influences like short, **executive summaries** with **stories and pictures** to illustrate key concepts, but they really prefer friendly, verbal communication and connection.
 
-
 ## Core Balance Concerns
 
 Influences risk falling into "the trigger zone" when their following "core balance concerns" aren't being met:
