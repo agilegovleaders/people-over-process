@@ -1,5 +1,6 @@
 # Power
-People with a Power Style are consistent. They take things on and will work forever to get them finished. This endurance is a tremendous benefit to a team because it pulls people alongside them who want to make sure things get accomplished. Powers typically become the glue in a relationship - staying in touch, keeping tabs, etc. - but they can also get overwhelmed with the number of things they are responsible for.
+
+Powers are consistent. They take things on and will work forever to get them finished. This endurance is a tremendous benefit to a team because it pulls people alongside them who want to make sure things get accomplished. Powers typically become the glue in a relationship - staying in touch, keeping tabs, etc. - but they can also get overwhelmed with the number of things they are responsible for.
 
 Powers are most comfortable putting their head down and getting to work. When others continually change their work priorities, put things on hold or create too much chaos in their environment, Powers start to get anxious. This can lead them to taking on all of the work (way more than they can handle) just to avoid things feeling unstable.
 
