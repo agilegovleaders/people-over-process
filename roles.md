@@ -1,6 +1,6 @@
 # Roles
 
-**[Contracting Officer](contracting_officer.md) (CO)**: Authorized to bind the Government contractually and direct contractor action.
+**[Contracting Officer](contracting_officer.md)**: Authorized to bind the Government contractually and direct contractor action.
 
 **[Dev Team](dev-team.md)**: Developers, Designers, Testers, UX Experts who design and build the system.
 
