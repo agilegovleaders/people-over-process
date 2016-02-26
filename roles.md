@@ -10,4 +10,4 @@
 
 **[Product Owner](product_owner.md)**: Point of contact between project team and stakeholders. Prioritizes the product backlog to ensure development value. In federal gov this role could be owned by the COR.
 
-**[Project Manager](project_manager.md)**: Manages the project and the coaches the team and Product Owner on the Agile process.
+**[Project Manager](project_manager.md)**: Manages the project and the coaches the team and Product Owner on the Agile process. In scrum, this role is the scrum master.
