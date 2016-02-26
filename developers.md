@@ -1,3 +1,3 @@
-# Developers
+# Dev Team
 
 Coming soon!
