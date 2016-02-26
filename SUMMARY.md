@@ -17,7 +17,6 @@
    * [Legal](legal.md)
    * [Product Owner](product_owner.md)
    * [Project Manager](project_manager.md)
-   * [Tester](tester.md)
 * [Questions to Ask](questions_to_ask.md)
 * [Best Practices](best_practices.md)
 * [Case Studies](case_studies.md)
