@@ -11,7 +11,7 @@
    * [Authority](authority.md)
 * [Roles](roles.md)
    * [Contracting Officer](contracting_officer.md)
-   * [Dev Team](dev-team.md)
+   * Dev Team
    * [Executive](executive.md)
    * [Legal](legal.md)
    * [Product Owner](product_owner.md)
