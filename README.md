@@ -1,4 +1,4 @@
-# People over Process
+# People Over Process
 
 A Playbook for Agile Evangelists in Government
 
