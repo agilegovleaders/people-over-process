@@ -24,3 +24,11 @@
 * [Agile Software Sustainment in a Government Organization](https://www.scrumalliance.org/community/articles/2013/october/agile-software-sustainment-in-a-government-organiz)
 * [ACT-IAC Acquisition Best Practices to Procure Agile IT Services](https://www.actiac.org/sites/default/files/Best%20Practices%20to%20Procure%20Agile%20IT%20Services%20-%20ET%20SIG%2003-2014.pdf)
 * [Enabling Acquisition Success for Agile Development](https://www.asigovernment.com/documents/enabling_acquisition_success_for_agile_development_advisory.pdf)
+
+## Organizations
+
+[Agile Alliance](http://www.agilealliance.org/) – Nonprofit organization with global membership, committed to advancing Agile development principles and practices.  Agile Alliance supports those who explore and apply [Agile principles and practices](http://www.agilealliance.org/the-alliance/the-agile-manifesto/) in order to make the software industry more productive, humane and sustainable.
+
+[International Consortium of Agile](http://www.icagile.com/) (ICAgile) – An organization founded to drive high-quality, credible Agile education that teaches professionals to approach Agile in any context, rather than training to follow a specific methodology (Scrum, XP, etc).
+
+[Scrum Alliance](https://www.scrumalliance.org/) – The Scrum Alliance is a non-profit organization offering resources, certifications, training, and support for individuals and organizations in Scrum.
